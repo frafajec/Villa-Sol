@@ -1,0 +1,767 @@
+/* header, footer i index */
+body {
+    padding: 0;
+    padding-top: 90px;
+    background-color: white;
+    font-family: helvetica;
+    font-size: 12px;
+    overflow-y: scroll;
+}
+.all {
+    padding: 0;
+    margin: 0;
+    margin-top: -5px;
+    padding-top: 10px;
+}
+#footer {
+    background-color: white;
+    font-size: 1.5em;
+    color: #777;
+    border-top: 2px solid #d0d0d0;
+    margin: 3% 0 0 0;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    
+    background-image: linear-gradient(to bottom, #f8f8f8 100%, #fff 0%);
+    border-radius: 4px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 5px rgba(0, 0, 0, 0.075);    
+}
+#footer h4 {
+    color: black;
+    line-height: 1;
+}
+.end h4 {
+    font-size: 1.2em;
+}
+.crta {
+    border: 1.5px solid black;
+    border-radius: 25px;
+    margin-top: 4%;
+}
+.end div{
+    width: 50%;
+    float: left;
+}
+.flags {
+    margin-top: 2.2%;
+    padding-left: 5%;
+}
+.flags img {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    width: 30px;
+}
+.flags li {
+    margin: 0;
+    padding: 0;
+}
+.flags > li > a {
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+.main {
+    width: 100%;
+    height: 100%;
+}
+.main_img {
+    padding: 15%;
+    margin: 0;
+    margin-top: -12px;   
+}
+.main_img {
+    background: url("../img/index_sea.jpg") center center fixed no-repeat;
+    max-width: 100%;
+    height: 100%;
+    width: auto;
+    padding-bottom: 16%;
+    min-width: 100%;
+    min-height: 100%;    
+}
+.main_img p {
+    font-size: 3.16em;
+    color: white;
+    position: relative;
+    text-align: center;
+    text-height: max-size;
+}
+.main_img h4 {
+    font-size: 5.16em;
+    color: white;
+    position: relative;
+    text-align: center;
+    text-height: max-size;
+    padding-top: 5%;
+}
+.main_tumb {
+    max-height: 320px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+}
+.main_contact p {
+    padding: 0;
+    margin-bottom: -20px;
+    margin-top: 0px;
+    display: inline;
+}
+.makija {
+    color: #636363;
+}
+.main_contact p:first-of-type {
+    margin-top: 5%;
+}
+.main_contact p:last-of-type {
+    margin-bottom: 5%;
+}
+.main_contact h4 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 1.3em;
+}
+.main_contact div {
+    padding-left: 5%;
+}
+.main_txt {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    color: #777;
+}
+.main_txt h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.main_txt p {
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    margin-bottom: 4%;
+    padding-bottom: 2%;
+    font-family: times new roman;
+    font-style: italic;
+}
+.main_txt p:last-child {
+    margin-bottom: 0%;
+}
+.line {
+    border: 1.5px solid #d0d0d0;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
+.weather {
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+    margin-top: 9%;
+}
+/* ------------ */
+/* contact page */
+/* ------------ */
+.contact_panorama {
+    background: url("../img/panorama.jpg") fixed center top no-repeat;
+    max-width: 100%;
+    height: 100%;
+    width: auto;
+    padding-bottom: 16%;
+    min-width: 100%;
+    min-height: 100%;
+    margin-top: -12px;
+}
+.cline {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1.5px solid #d0d0d0;
+    border-radius: 25px;
+}
+.contact_txt {
+    /* margin-bottom: 3%; */
+    color: #777;
+    margin-top: 2%;
+}
+.contact_txt h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.contact_txt p {
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    margin-bottom: 4%;
+    font-family: times new roman;
+    font-style: italic;
+}
+.contact_info {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10px;
+}
+.contact_info h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.contact_info p {
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    margin-bottom: 4%;
+    font-family: times new roman;
+    font-style: italic;
+}
+/* contact forma */
+.contact_form h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#cform {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cform div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    color: #777;
+    font-family: times new roman;
+    font-size: 1.5em;
+    font-style: italic;
+    padding-bottom: 1%;
+}
+.cinput {
+    width: 100%;
+}
+#csubmit {
+    width: 15%;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    font-weight: bold;
+    margin-top: 10px;
+    font-style: normal;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    height: 35px;
+}
+/* ------------ */
+/* situation page */
+/* ------------ */
+.situation_panorama {
+    background: url("../img/panorama2.jpg") fixed center top no-repeat;
+    max-width: 100%;
+    height: 100%;
+    width: auto;
+    padding-bottom: 16%;
+    min-width: 100%;
+    min-height: 100%;
+    margin-top: -12px;
+}
+.situation_txt {
+    color: #777;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.situation_txt h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.situation_txt p {
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    font-family: times new roman;
+    font-style: italic;
+}
+.situation_after p {
+    color: #777;
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    font-family: times new roman;
+    font-style: italic;
+    margin-top: 25px;
+}
+.situation_map {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.situation_map iframe {
+    width: 650px;
+    height: 450px
+}
+/* ------------ */
+/* reservation page */
+/* ------------ */
+.reservation_panorama {
+    background: url("../img/panorama3.jpg") fixed center top no-repeat;
+    max-width: 100%;
+    height: 100%;
+    width: auto;
+    padding-bottom: 16%;
+    min-width: 100%;
+    min-height: 100%;
+    margin-top: -12px;
+}
+.reservation_txt {
+    color: #777;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.reservation_txt h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.reservation_txt p {
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: auto;
+    font-family: times new roman;
+    font-style: italic;
+}
+.reservation_info {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.reservation_info h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.reservation_calendar {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.reservation_calendar h4 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+}
+.rtable {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.5px solid black;
+    margin-top: 25px;
+}
+.rtable > thead > tr {
+    color: black;
+    font-size: 1.8em;
+}
+.rtable > tbody > tr {
+    color: #777;
+    font-size: 2em;
+}
+.rtable th {
+    height: 85px;
+    text-align: center;
+    width: 180px;
+    border-right: 0.5px solid black;
+}
+.rtable td {
+    height: 85px;
+    text-align: center;
+    width: 180px;
+    border-right: 0.5px solid black;
+}
+.calendar img {
+    width: 25%;
+    height: 25%;
+    margin: 0 37.5% 0 37.5%;
+}
+/* ------------ */
+/* media fields */
+/* ------------ */
+@media (max-width: 1720px) {
+    .main_img {
+        padding-bottom: 10%;
+    }
+    #csubmit {
+        font-size: 0.9em;
+        width: 18%;
+        margin-left: 41%;
+        margin-right: 41%;
+    }
+}
+
+@media (max-width: 1366px) {
+    .main_img {
+        padding-bottom: 11%;
+    }
+    .main_img h4 {
+        padding-top: 0;
+        margin-top: -5%;
+    }
+}
+
+@media (max-width: 1280px) {
+    .main_img {
+        padding-bottom: 8%;
+    }
+    .main_img h4 {
+        padding-top: 5px;
+        margin-top: 0;
+    }
+    body {
+        font-size: 10px;
+    }
+    .main_contact:first-child {
+        margin-left: 10%;
+        width: 35%;
+    }    
+}
+
+@media (max-width: 1250px) {
+    .flags {
+        padding-left: 0;
+    }  
+    .navbar-nav.navbar-right:last-child {
+        margin-right: 5%;
+    }
+    
+}
+
+@media (max-width: 1199px) {
+    .flags {
+        margin-top: 2.6%;
+    }
+    
+    .navbar-nav.navbar-right:last-child {
+        margin-right: 0;
+    }
+    .line {
+        margin-right: 25%;
+    }
+    .cline {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .weather {
+        margin-top: 1%;
+        width: 100%;
+        padding: 0;
+    }
+    .main_contact {
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        margin-top: 25px;
+        float: left;
+    }
+    .crta {
+        float: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #csubmit {
+        font-size: 0.9em;
+        width: 20%;
+        margin-left: 40%;
+        margin-right: 40%;
+    }
+    
+}
+
+@media (max-width: 1000px) {
+    body {
+        font-size: 8px;
+    }
+    .main_txt p{
+        font-size: 1.875em;
+    }
+    .navbar-brand {
+        padding: 20px 15px 30px 15px;
+    }
+    .navbar-nav > li > a {
+        padding-top: 5px;
+        padding-bottom: 0;
+        padding-left: 15%;
+        padding-right: 0;
+    }
+    .navbar-nav.navbar-right:last-child {
+        margin-right: 2%;
+    }
+    .flags {
+        margin-top: 8px;
+    }
+    .flags img {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .navbar {
+        margin-bottom: 0px;
+        min-height: 0px;
+    }
+    .main_img, .contact_panorama, .reservation_panorama, .situation_panorama {
+        margin-top: -40px;
+    }
+    #csubmit {
+        font-size: 0.9em;
+        width: 25%;
+        margin-left: 37.5%;
+        margin-right: 37.5%;
+    }
+    .rtable th {
+        height: 65px;
+    }
+    .rtable td {
+        height: 50px;
+    }
+    .calendar img {
+        height: 40%;
+        width: 40%;
+        margin: 0 30%;
+    }
+    .situation_map iframe {
+        width: 550px;
+        height: 410px
+    }
+}
+
+@media (max-width: 850px) {
+    .end {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #cform {
+        width: 80%;
+    }
+    .situation_map iframe {
+        width: 480px;
+        height: 380px
+    }
+}
+
+@media (max-width: 767px) {
+    body {
+        font-size: 7px;
+    }
+    .container > .navbar-header,
+    .container-fluid > .navbar-header,
+    .container > .navbar-collapse,
+    .container-fluid > .navbar-collapse {
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+    .main_img {
+        margin: -42px 0 0;
+    }
+    .navbar-nav > li > a {
+        font-size: 2em;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        line-height: 50px;
+    }
+    .navbar-toggle {
+        margin-top: 10px;
+    }
+    .main_txt p {
+        width: 85%;
+    }
+    .crta {
+        width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+    .end {
+        width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+    .main_contact {
+        float: none;
+        margin-left: 0;
+        margin-right: 0;
+        width: 75%;
+    }
+    .main_contact h4 {
+        padding-bottom: 0;
+        padding-top: 0;
+        font-size: 1.8em;
+    }
+    .main_contact p {
+        font-size: 1.2em;
+    }
+    .flags li {
+        width: 20%;
+        float: right; 
+    }
+    .flags > li > a {
+        width: 100%;
+        padding: 0 0 0 35%;
+        float: left;
+    }
+    .flags > li > a > img {
+        float: left;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .rtable th {
+        height: 50px;
+    }
+    .rtable td {
+        height: 35px;
+    }
+}
+
+@media (max-width: 682px) {
+    .main_contact:first-child {
+       width: 75%;
+    }
+    .situation_map iframe {
+        width: 420px;
+        height: 300px
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        font-size: 6px;
+    }
+    .main_txt p {
+        width: 95%;
+    }
+    .calendar img {
+        height: 50%;
+        width: 50%;
+        margin: 0 25%;
+    }
+    .rtable {
+        margin-top: 2%;
+    }
+    .rtable th {
+        height: 40px;
+    }
+    .rtable td {
+        height: 25px;
+    }
+    .situation_map iframe {
+        width: 350px;
+        height: 250px
+    }
+}
+@media (max-width: 400px) {
+    body {
+        font-size: 5px;
+    }
+    .flags img {
+        width: 25px;
+    }
+    #csubmit {
+        font-size: 1em;
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    .rtable th {
+        height: 35px;
+    }
+    .rtable td {
+        height: 20px;
+    }
+    .situation_map iframe {
+        width: 250px;
+        height: 150px
+    }
+}
+@media (max-width: 310px) {
+    #csubmit {
+        font-size: 0.9em;
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .reservation_info {
+        width: 100%;
+        margin-left: 0;
+    }
+    .rtable > thead > tr {
+        height: 30px;
+        font-size: 1.6em;
+    }
+    .rtable > tbody > tr {
+        height: 15px;
+        font-size: 1.5em;
+    }
+    .situation_map iframe {
+        width: 180px;
+        height: 110px
+    }
+}
+@media (max-width: 220px) {
+    body {
+        font-size: 4px;
+    }
+    .main_txt p {
+        width: 100%;
+    }
+    .navbar-brand {
+        line-height: 0;
+        padding: 25px 1px 5%;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .navbar-toggle {
+        margin-right: 0;
+        padding: 5px;
+    }
+    .main_img {
+        margin: -45px 0 0;
+    }
+    .main_contact {
+        font-size: 1.2em;
+    }
+    .flags img {
+        width: 20px;
+    }
+    #csubmit {
+        height: 30px;
+    }
+    .rtable th {
+        height: 25px;
+    }
+    .rtable td {
+        height: 10px;
+    }
+    .situation_map iframe {
+        width: 100px;
+        height: 65px
+    }
+}
