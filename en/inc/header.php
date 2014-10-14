@@ -49,11 +49,11 @@ session_start();
                   
                   <!-- Odabir jezika -->                    
                   <ul class="nav navbar-nav navbar-right flags">
-                      <li id="lit"><a class="nav-a" href="javascript:it;"><img src="../static/img/i.png"></a></li>
-                      <li id="lfr"><a class="nav-a" href="javascript:fr;"><img src="../static/img/fr.png"></a></li>
-                      <li id="lde"><a class="nav-a" href="javascript:de;"><img src="../static/img/de.png"></a></li>
-                      <li id="len"><a class="nav-a" href="javascript:en;"><img src="../static/img/en.png"></a></li>
-                      <li id="lhr"><a class="nav-a" href="javascript:hr;"><img src="../static/img/cro.png"></a></li>   
+                      <li id="it" class="flag"><a class="nav-a" href="javascript:it;"><img src="../static/img/i.png"></a></li>
+                      <li id="fr" class="flag"><a class="nav-a" href="javascript:fr;"><img src="../static/img/fr.png"></a></li>
+                      <li id="de" class="flag"><a class="nav-a" href="javascript:de;"><img src="../static/img/de.png"></a></li>
+                      <li id="en" class="flag"><a class="nav-a" href="javascript:en;"><img src="../static/img/en.png"></a></li>
+                      <li id="hr" class="flag"><a class="nav-a" href="javascript:hr;"><img src="../static/img/cro.png"></a></li>   
                   </ul>
             
             

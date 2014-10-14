@@ -52,29 +52,10 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
     <script src="../static/js/bootstrap.min.js"></script>
     <script>
         $(document).ready(function(){
-           $('#lit').click( function(){
+           $('.flag').click( function(){
+               var lng = $(this).attr("id");
                $.cookie("language", null, { path: '/' });
-               $.cookie('language', 'it', {expires:1825, path:'/'});
-               window.location.replace("../" + $.cookie("language"));
-           });
-           $('#lfr').click( function(){
-               $.cookie("language", null, { path: '/' });
-               $.cookie('language', 'fr', {expires:1825, path:'/'});
-               window.location.replace("../" + $.cookie("language"));
-           });
-           $('#lde').click( function(){
-               $.cookie("language", null, { path: '/' });
-               $.cookie('language', 'de', {expires:1825, path:'/'});
-               window.location.replace("../" + $.cookie("language"));
-           });
-           $('#len').click( function(){
-               $.cookie("language", null, { path: '/' });
-               $.cookie('language', 'en', {expires:1825, path:'/'});
-               window.location.replace("../" + $.cookie("language"));
-           });
-           $('#lhr').click( function(){
-               $.cookie("language", null, { path: '/' });
-               $.cookie('language', 'hr', {expires:1825, path:'/'});
+               $.cookie('language', lng, {expires:1825, path:'/'});
                window.location.replace("../" + $.cookie("language"));
            });
         });
@@ -92,7 +73,7 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
               },400);       
           });
           $('.navbar-nav > li > a').hover(function() {
-              $(this).stop().animate({ fontSize : '1.55em' }, 200);
+              $(this).stop().animate({ fontSize : '1.53em' }, 200);
           }, function(){
               $(this).stop().animate({ fontSize : '1.5em' }, 200);
           });
