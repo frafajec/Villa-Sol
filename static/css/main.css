@@ -242,6 +242,11 @@ body {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+.contact_form input, .contact_form textarea {
+    border: 1px solid #777;
+    border-radius: 5px;
+    padding-left: 5px;
+}
 #cform {
     width: 60%;
     margin-left: auto;
@@ -267,7 +272,8 @@ body {
     font-weight: bold;
     margin-top: 10px;
     font-style: normal;
-    border: 1px solid black;
+    border: 1px solid #777;
+    border-radius: 5px;
     background-color: white;
     color: black;
     height: 35px;

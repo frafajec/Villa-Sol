@@ -50,33 +50,4 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
     <script src="../static/js/jquery.cookie.js"></script>
     <!--<script src="../static/js/jquery-ui.js"></script>-->
     <script src="../static/js/bootstrap.min.js"></script>
-    <script>
-        $(document).ready(function(){
-           $('.flag').click( function(){
-               var lng = $(this).attr("id");
-               $.cookie("language", null, { path: '/' });
-               $.cookie('language', lng, {expires:1825, path:'/'});
-               window.location.replace("../" + $.cookie("language"));
-           });
-        });
-    </script>
-    <script>
-        $(document).ready(function(){
-          $('a').click(function (e) {
-              e.preventDefault();
-              var goTo = this.getAttribute("href");
-              $(".all").fadeOut();
-              $(".all").fadeOut("slow");
-              $(".all").fadeOut(500); 
-              setTimeout(function(){
-                window.location = goTo;
-              },400);       
-          });
-          $('.navbar-nav > li > a').hover(function() {
-              $(this).stop().animate({ fontSize : '1.53em' }, 200);
-          }, function(){
-              $(this).stop().animate({ fontSize : '1.5em' }, 200);
-          });
-        });
-    </script>
-    
+    <script src="../static/js/main.js"></script> 

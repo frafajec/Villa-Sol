@@ -76,31 +76,31 @@ if(isset($_POST['fname']) &&  isset($_POST['lname']) &&  isset($_POST['email'])
         
         <div class="col-lg-6">
             <label>Firstname</label>
-            <input type="text" name="fname" class="cinput">
+            <input type="text" name="fname" id="fname" class="cinput" placeholder="Write your first name">
         </div>
         
         <div class="col-lg-6">
             <label>Lastname</label>
-            <input type="text" name="lname" class="cinput">
+            <input type="text" name="lname" id="lname" class="cinput" placeholder="Write your last name">
         </div>
         
         <div class="col-lg-6">
             <label>E-mail</label>
-            <input type="email" name="email" class="cinput">
+            <input type="email" name="email" id="email" class="cinput" placeholder="Write your email address">
         </div>
         
         <div class="col-lg-6">
             <label>Subject</label>
-            <input type="text" name="subject" class="cinput">
+            <input type="text" name="subject" id="subject" class="cinput" placeholder="Write the subject of the email">
         </div>
         
         <div class="col-lg-12">
             <label>Message</label>
-            <textarea name="msg" class="cinput" rows="5"></textarea>
+            <textarea name="msg" class="cinput" id="msg" rows="5" placeholder="Write the message of this email here"></textarea>
         </div>
         
         <div class="col-lg-12">
-            <input type="submit" name="contact_form" value="SEND MESSAGE" id="csubmit">
+            <input type="submit" name="contact_form" id="csubmit" value="SEND MESSAGE">
         </div>
         
     </form>
