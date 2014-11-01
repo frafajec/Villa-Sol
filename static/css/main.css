@@ -30,7 +30,6 @@ body {
     margin: 3% 0 0 0;
     padding-bottom: 1%;
     padding-top: 1%;
-    
     background-image: linear-gradient(to bottom, #f8f8f8 100%, #fff 0%);
     border-radius: 4px;
     box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 5px rgba(0, 0, 0, 0.075);    
@@ -50,6 +49,11 @@ body {
 .end div{
     width: 50%;
     float: left;
+}
+.navbar-nav > li > a:hover {
+    transition: text-shadow 0.2s ease-in-out;
+    text-shadow: 0.5px -0.5px #333;
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1);
 }
 .flags {
     margin-top: 2.2%;
@@ -244,7 +248,7 @@ body {
 }
 .contact_form input, .contact_form textarea {
     border: 1px solid #777;
-    border-radius: 5px;
+    border-radius: 3px;
     padding-left: 5px;
 }
 #cform {
@@ -265,6 +269,17 @@ body {
 .cinput {
     width: 100%;
 }
+.cinput[type=text], .cinput[type=email]{
+    height: 35px;
+}
+.cglow {
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+.cglow:focus {
+    border-color: #66afe9;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+    outline: 0 none;
+}
 #csubmit {
     width: 15%;
     margin-left: 42.5%;
@@ -274,9 +289,18 @@ body {
     font-style: normal;
     border: 1px solid #777;
     border-radius: 5px;
-    background-color: white;
+    background-color: #fcfcfc;
     color: black;
-    height: 35px;
+    padding: 10px 0;
+}
+#csubmit:hover, #csubmit:focus {
+    background-color: #f5f5f5;
+    transition-duration: 0.2s;
+}
+#csubmit:active {
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3);
+    background: #f0f0f0;
+    border: solid 1px black;
 }
 /* ------------ */
 /* situation page */
@@ -435,6 +459,10 @@ body {
     }
 }
 
+@media (max-width: 1350px) {
+    
+}
+
 @media (max-width: 1366px) {
     .main_img {
         padding-bottom: 11%;
@@ -442,6 +470,20 @@ body {
     .main_img h4 {
         padding-top: 0;
         margin-top: -5%;
+    }
+    .crta {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .end div:first-child {
+        width: 45%;
+        float: left;
+        margin-left: 2.5%;
+    }
+    .end div:last-child {
+        width: 25%;
+        float: left;
+        margin-left: 25%;
     }
 }
 
@@ -459,7 +501,15 @@ body {
     .main_contact:first-child {
         margin-left: 10%;
         width: 35%;
-    }    
+    }
+    .crta {
+        width: 85%;
+        margin-left: 7.5%;
+    }
+    .end div:first-child {
+        width: 35%;
+        margin-left: 7.5%;
+    }
 }
 
 @media (max-width: 1250px) {
@@ -502,8 +552,8 @@ body {
     }
     .crta {
         float: left;
-        width: 100%;
-        margin-left: auto;
+        width: 90%;
+        margin-left: 5%;
         margin-right: auto;
     }
     #csubmit {
@@ -619,6 +669,17 @@ body {
         margin-right: auto;
         float: none;
     }
+    .end div:first-child {
+        width: 50%;
+        float: left;
+        margin-left: 0;
+    }
+    .end div:last-child {
+        width: 50%;
+        float: left;
+        margin-left: 0;
+    }
+    
     .end {
         width: 75%;
         margin-left: auto;
