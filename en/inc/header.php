@@ -1,7 +1,3 @@
-<?php
-session_start();
-?>
-
 <!DOCTYPE html>
 
 <head>
@@ -10,11 +6,11 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Villa Ivica</title>
+    <title>Villa Sol</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../static/css/bootstrap.css" rel="stylesheet">
-    <link href="../static/css/bootstrap-theme.css" rel="stylesheet">
+    <!--<link href="../static/css/bootstrap-theme.css" rel="stylesheet">-->
     <!-- Add custom CSS here -->
     <link href="../static/css/main.css" rel="stylesheet">
 
@@ -32,7 +28,7 @@ session_start();
             <span class="icon-bar"></span>
           </button>
           <!-- Ime ville -->
-                  <a class="navbar-brand" href="index.php">VILLA IVICA</a>
+                  <a class="navbar-brand" href="index.php">VILLA SOL</a>
                 </div>
                
                <!-- Linkovi po stranici -->

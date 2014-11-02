@@ -54,6 +54,9 @@ body {
     transition: text-shadow 0.2s ease-in-out;
     text-shadow: 0.5px -0.5px #333;
     box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    text-decoration-line: none;
+    box-decoration-break: none;
 }
 .flags {
     margin-top: 2.2%;
@@ -578,8 +581,8 @@ body {
     .navbar-nav > li > a {
         padding-top: 5px;
         padding-bottom: 0;
-        padding-left: 15%;
-        padding-right: 0;
+        padding-left: 7.5%;
+        padding-right: 7.5%;
     }
     .navbar-nav.navbar-right:last-child {
         margin-right: 2%;
@@ -653,8 +656,6 @@ body {
     }
     .navbar-nav > li > a {
         font-size: 2em;
-        padding-top: 5px;
-        padding-bottom: 5px;
         line-height: 50px;
     }
     .navbar-toggle {

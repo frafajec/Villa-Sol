@@ -1,7 +1,3 @@
-<?php
-        // put your code here
-?>
-
 <?php require_once 'inc/header.php'; ?>
 
 

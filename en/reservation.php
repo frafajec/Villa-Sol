@@ -1,9 +1,4 @@
-<?php
-        // put your code here
-?>
-
 <?php require_once 'inc/header.php'; ?>
-
 
 <div class="col-lg-12 reservation_panorama">
 </div>

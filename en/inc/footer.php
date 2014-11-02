@@ -5,10 +5,10 @@
             <div class="col-lg-6 main_contact">
                     <h4>CONTACT</h4>
 
-                    <div><p style="color: black; font-weight: bold;">Villa Ivica</p><br></div>
+                    <div><p style="color: black; font-weight: bold;">Villa Sol</p><br></div>
                     <div><p class="makija">Address: </p><p style="color: black;"> Kanica 160, Rogoznica</p><br></div>
                     <div><p class="makija">Phone number: </p><p style="color: black;">+385 91 839 4600</p><br></div>
-                    <div><p class="makija">Email: </p><p style="color: black;">villa.ivica@gmail.com</p><br></div>
+                    <div><p class="makija">Email: </p><p style="color: black;">villa.sol@gmail.com</p><br></div>
 
             </div><!-- /col-lg-6 -->
 
@@ -33,7 +33,7 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
             
             <div class="end">
                 <div class="col-lg-6">
-                        <h4>Villa Ivica</h4>
+                        <h4>Villa Sol</h4>
                 </div><!-- /col-lg-6 -->
                 <div class="col-lg-6" style="text-align: right;">                    
                         <h4>2014</h4>
