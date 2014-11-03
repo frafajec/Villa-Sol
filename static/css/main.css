@@ -50,6 +50,17 @@ body {
     width: 50%;
     float: left;
 }
+.navbar-brand {
+    padding: 20px 30px 50px;
+}
+.navbar-brand img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 130px;
+    height: 40px;
+    border: 0;
+}
 .navbar-nav > li > a:hover {
     transition: text-shadow 0.2s ease-in-out;
     text-shadow: 0.5px -0.5px #333;
@@ -353,8 +364,8 @@ body {
     margin-bottom: 2%;
 }
 .situation_map iframe {
-    width: 650px;
-    height: 450px
+    width: 55%;
+    height: 500px
 }
 /* ------------ */
 /* reservation page */
@@ -488,6 +499,9 @@ body {
         float: left;
         margin-left: 25%;
     }
+    .situation_map iframe {
+        height: 400px;
+    }
 }
 
 @media (max-width: 1280px) {
@@ -565,6 +579,10 @@ body {
         margin-left: 40%;
         margin-right: 40%;
     }
+    .situation_map iframe {
+        height: 350px;
+        width: 65%;
+    }
     
 }
 
@@ -577,6 +595,13 @@ body {
     }
     .navbar-brand {
         padding: 20px 15px 30px 15px;
+    }
+    .navbar-brand {
+    padding: 10px 10px 30px;
+    }
+    .navbar-brand img {
+        width: 115px;
+        height: 35px;
     }
     .navbar-nav > li > a {
         padding-top: 5px;
@@ -619,8 +644,8 @@ body {
         margin: 0 30%;
     }
     .situation_map iframe {
-        width: 550px;
-        height: 410px
+        width: 70%;
+        height: 300px
     }
 }
 
@@ -634,8 +659,7 @@ body {
         width: 80%;
     }
     .situation_map iframe {
-        width: 480px;
-        height: 380px
+        height: 260px;
     }
 }
 
@@ -728,8 +752,7 @@ body {
        width: 75%;
     }
     .situation_map iframe {
-        width: 420px;
-        height: 300px
+        height: 220px
     }
 }
 
@@ -755,8 +778,7 @@ body {
         height: 25px;
     }
     .situation_map iframe {
-        width: 350px;
-        height: 250px
+        height: 200px
     }
 }
 @media (max-width: 400px) {
@@ -779,7 +801,6 @@ body {
         height: 20px;
     }
     .situation_map iframe {
-        width: 250px;
         height: 150px
     }
 }
@@ -803,8 +824,20 @@ body {
         font-size: 1.5em;
     }
     .situation_map iframe {
-        width: 180px;
         height: 110px
+    }
+    .navbar-brand img {
+        width: 100px;
+        height: 30px;
+    }
+}
+@media (max-width: 250px) {
+   .navbar-brand img {
+        width: 75px;
+        height: 20px;
+    }
+    .navbar-brand {
+        padding-top: 18px;
     }
 }
 @media (max-width: 220px) {
@@ -816,7 +849,7 @@ body {
     }
     .navbar-brand {
         line-height: 0;
-        padding: 25px 1px 5%;
+        padding-top: 13px;
         margin-top: auto;
         margin-bottom: auto;
     }
@@ -843,7 +876,15 @@ body {
         height: 10px;
     }
     .situation_map iframe {
-        width: 100px;
         height: 65px
+    }
+}
+@media (max-width: 170px) {
+    .navbar-brand img {
+        width: 50px;
+        height: 15px;
+    }
+    .navbar-brand {
+        padding: 15px 0 0;
     }
 }

@@ -13,6 +13,7 @@
     <!--<link href="../static/css/bootstrap-theme.css" rel="stylesheet">-->
     <!-- Add custom CSS here -->
     <link href="../static/css/main.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="../static/img/fav.ico"/>
 
 </head>
 
@@ -28,7 +29,7 @@
             <span class="icon-bar"></span>
           </button>
           <!-- Ime ville -->
-                  <a class="navbar-brand" href="index.php">VILLA SOL</a>
+          <a class="navbar-brand" href="index.php"><img src="../static/img/villa-sol-logo.png" alt="Villa Sol" /></a>
                 </div>
                
                <!-- Linkovi po stranici -->
