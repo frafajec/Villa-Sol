@@ -50,4 +50,10 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
     <script src="../static/js/jquery.cookie.js"></script>
     <!--<script src="../static/js/jquery-ui.js"></script>-->
     <script src="../static/js/bootstrap.min.js"></script>
-    <script src="../static/js/main.js"></script> 
+    <!-- use jssor.slider.mini.js (40KB) or jssor.sliderc.mini.js (32KB, with caption, no slideshow) or jssor.sliders.mini.js (28KB, no caption, no slideshow) instead for release -->
+    <!-- jssor.slider.mini.js = jssor.sliderc.mini.js = jssor.sliders.mini.js = (jssor.js + jssor.slider.js) -->
+<!--    <script src="../static/js/jssor.js"></script>
+    <script src="../static/js/jssor.slider.js"></script>-->
+    <script src="../static/js/jssor.slider.mini.js"></script>
+    <script src="../static/js/main.js"></script>
+    

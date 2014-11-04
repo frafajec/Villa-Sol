@@ -453,10 +453,22 @@ body {
     height: 25%;
     margin: 0 37.5% 0 37.5%;
 }
-/* ------------ */
+/* ----------------- */
 /* accomodation page */
-/* ------------ */
+/* ----------------- */
 
+.jssor_text {
+    font-family: times new roman;
+    font-style: italic;
+    color: #aaa;
+    text-align: center;
+    /*border: 0.5px solid #000;*/
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 1px 1px 2.5px 3px rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0.6);
+    padding: 2px 5px 0;
+}
 
 /* ------------ */
 /* media fields */
