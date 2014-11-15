@@ -32,9 +32,9 @@
     <div class="col-lg-12">
     <p>Ivica is one of few people in Croatia who knows how to talk to woman. He is truly great and passionate man.
     His parents said to him: "Ivica, you are really one special plant", and although that may seem inappropriate, 
-    from that day on Ivica lived like a king.</p>
+    from that day on, Ivica lived like a king.</p>
     </div>
-    <img src="../static/img/ivica_govor.jpg" class="main_tumb">
+    <img src="../static/img/ivica_govor.jpg" class="main_tumb img-rounded img-responsive">
 
 </div>
 
@@ -48,7 +48,7 @@
     There are ladies and ladies all around the place. In sea, all over beaches, on rocks...
     Only cowards are unable to score here at Villa Sol.</p>
     </div>
-    <img src="../static/img/elitni odred.jpg" class="main_tumb">
+    <img src="../static/img/elitni odred.jpg" class="main_tumb img-rounded img-responsive">
     
 </div>   
        
