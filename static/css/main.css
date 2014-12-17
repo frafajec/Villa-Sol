@@ -489,6 +489,9 @@ body {
         margin-left: 41%;
         margin-right: 41%;
     }
+    .all {
+        margin-top: -6px;
+    }
 }
 
 @media (max-width: 1366px) {
@@ -836,6 +839,9 @@ body {
     }
     .situation_map iframe {
         height: 150px
+    }
+    .all {
+        margin-top: -7px;
     }
 }
 @media (max-width: 310px) {

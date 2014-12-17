@@ -2,8 +2,8 @@
     
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->
-    <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 1200px;
-        height: 706px; background: #191919; overflow: hidden; margin-left: auto; margin-right: auto;">
+    <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 1400px;
+        height: 850px; background: #191919; overflow: hidden; margin-left: auto; margin-right: auto;">
 
         <!-- Loading Screen -->
         <div u="loading" style="position: absolute; top: 0px; left: 0px;">
@@ -16,12 +16,12 @@
         </div>
 
         <!-- Slides Container -->
-        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1200px; height: 586px; overflow: hidden;">
+        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1400px; height: 692px; overflow: hidden;">
             <div>
                 <img u="image" src="../static/showoff/img/01.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-01.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 200px; width: 800px; height: 30px;">
+                top: 640px; left: 200px; width: 1000px; height: 30px;">
                     This is long description therefore container is wider.
                 </div>
             </div>
@@ -29,7 +29,7 @@
                 <img u="image" src="../static/showoff/img/02.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-02.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 400px; width: 400px; height: 30px;">
+                top: 640px; left: 500px; width: 400px; height: 30px;">
                     This is short descriptor.
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 <img u="image" src="../static/showoff/img/03.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-03.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 <img u="image" src="../static/showoff/img/04.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-04.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -53,7 +53,7 @@
                 <img u="image" src="../static/showoff/img/05.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-05.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 <img u="image" src="../static/showoff/img/06.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-06.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -69,7 +69,7 @@
                 <img u="image" src="../static/showoff/img/07.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-07.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -77,7 +77,7 @@
                 <img u="image" src="../static/showoff/img/08.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-08.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -85,7 +85,7 @@
                 <img u="image" src="../static/showoff/img/09.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-09.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -93,7 +93,7 @@
                 <img u="image" src="../static/showoff/img/10.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-10.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -102,7 +102,7 @@
                 <img u="image" src="../static/showoff/img/11.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-11.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -110,7 +110,7 @@
                 <img u="image" src="../static/showoff/img/12.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-12.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text" style="position: absolute;
-                top: 556px; left: 300px; width: 600px; height: 30px;">
+                top: 640px; left: 400px; width: 600px; height: 30px;">
                     Do you see that?
                 </div>
             </div>
@@ -151,7 +151,7 @@
         <!-- Arrow Navigator Skin End -->
         
         <!-- Thumbnail Navigator Skin Begin -->
-        <div u="thumbnavigator" class="jssort01" style="position: absolute; width: 1200px; height: 120px; left:0px; bottom: 0px;">
+        <div u="thumbnavigator" class="jssort01" style="position: absolute; width: 1400px; height: 160px; left:0px; bottom: 0px;">
             <!-- Thumbnail Item Skin Begin -->
             <style>
                 /* jssor slider thumbnail navigator skin 01 css */
@@ -174,8 +174,8 @@
                     position: absolute;
                     top: 0px;
                     left: 0px;
-                    width: 150px;
-                    height: 104px;
+                    width: 180px;
+                    height: 145px;
                     border: #000 1px solid;
                 }
 
@@ -184,20 +184,20 @@
                     border-width: 0px;
                     top: 2px;
                     left: 2px;
-                    width: 146px;
-                    height: 100px;
+                    width: 176px;
+                    height: 141px;
                 }
 
                 .jssort01 .p:hover .c, .jssort01 .pav:hover .c {
                     top: 0px;
                     left: 0px;
-                    width: 150px;
-                    height: 104px;
+                    width: 180px;
+                    height: 145px;
                     border: #000 3px solid;
                 }
             </style>
             <div u="slides" style="cursor: move;">
-                <div u="prototype" class="p" style="position: absolute; width: 150px; height: 104px; top: 0; left: 0;">
+                <div u="prototype" class="p" style="position: absolute; width: 180px; height: 145px; top: 0; left: 0;">
                     <div class=w><thumbnailtemplate style=" width: 100%; height: 100%; border: none;position:absolute; top: 0; left: 0;"></thumbnailtemplate></div>
                     <div class=c>
                     </div>

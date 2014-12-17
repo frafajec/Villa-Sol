@@ -140,8 +140,8 @@ jQuery(document).ready(function ($) {
 
             $ActionMode: 1,                                 //[Optional] 0 None, 1 act by click, 2 act by mouse hover, 3 both, default value is 1
             $SpacingX: 8,                                   //[Optional] Horizontal space between each thumbnail in pixel, default value is 0
-            $DisplayPieces: 8,                             //[Optional] Number of pieces to display, default value is 1
-            $ParkingPosition: 550                          //[Optional] The offset position to park thumbnail
+            $DisplayPieces: 9,                             //[Optional] Number of pieces to display, default value is 1
+            $ParkingPosition: 750                           //[Optional] The offset position to park thumbnail
         }
     };
 
@@ -150,10 +150,8 @@ jQuery(document).ready(function ($) {
     //you can remove responsive code if you don't want the slider scales while window resizes
     function ScaleSlider() {
         var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
-        if (parentWidth > 2100)
+        if (parentWidth >= 1600)
             jssor_slider1.$ScaleWidth(Math.max(Math.min(parentWidth, 1400), 200));
-        if (parentWidth < 2100 && parentWidth >= 1600)
-            jssor_slider1.$ScaleWidth(Math.max(Math.min(parentWidth, 1200), 200));
         else if (parentWidth < 1600 && parentWidth >= 1340)
             jssor_slider1.$ScaleWidth(Math.max(Math.min(parentWidth, 1000), 200));
         else if (parentWidth < 1340)
