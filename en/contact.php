@@ -1,23 +1,3 @@
-<?php
-if(isset($_POST['fname']) &&  isset($_POST['lname']) &&  isset($_POST['email'])
-        &&  isset($_POST['subject']) &&  isset($_POST['msg']) ){
-    
-    $fname = filter_input(INPUT_POST, 'fname');
-    $lname = filter_input(INPUT_POST, 'lname');
-    $email = filter_input(INPUT_POST, 'email');
-    $subject = filter_input(INPUT_POST, 'subject');
-    $msg = filter_input(INPUT_POST, 'msg');
-    
-    $message = 'Ime: ' + $fname + '\n';
-    $message += 'Prezime: ' + $lname + '\n';
-    $message += 'Email: ' + $email + '\n';
-    $message += 'Tema: ' + $subject + '\n\n';
-    $message += $msg + '\n';
-        
-    mail('gradecak.ivan@gmail.com', $subject, $message);
-    
-}
-?>
 <?php require_once 'inc/header.php'; ?>
 
 <div class="col-lg-12 contact_panorama">
@@ -26,10 +6,12 @@ if(isset($_POST['fname']) &&  isset($_POST['lname']) &&  isset($_POST['email'])
 
 <div class="col-lg-12 contact_txt">
     
-    <h4>Contact us</h4>
+    <h4>Javite nam se!</h4>
     
     <p>
-        Call us bla bla bla, blabla!
+        U slučaju dodatnih pitanja ili ako ste odlučili rezervirati smještaj, slobodno nas kontaktirajte 
+        pomoću e-maila ili kontaktog obrasca. Mi ćemo vam odgovoriti u najkraćem mogućem roku.
+        Radi lakšeg sporazumijevanja molimo da  pišete na hrvatskom ili engleskom jeziku.
     </p>
     
 </div>
@@ -39,20 +21,20 @@ if(isset($_POST['fname']) &&  isset($_POST['lname']) &&  isset($_POST['email'])
 <div class="col-lg-12 contact_info">  
     <div class="col-lg-3"> 
         <h4>
-            Address
+            Adresa
         </h4>       
         <p>
-            Kanica 160, <br> Rogoznica, <br> Hrvatska
+            Kanica 160c <br> Rogoznica <br> Hrvatska
         </p>
         
     </div>
     
     <div class="col-lg-5"> 
         <h4>
-            Contact number
+            Kontakt (Skype)
         </h4>        
         <p>
-            Phone number: +385 91 893 4600 <br> Skype: 6594 948 64 6
+            VillaSolAdriatic
         </p>
     </div>
     
@@ -61,7 +43,7 @@ if(isset($_POST['fname']) &&  isset($_POST['lname']) &&  isset($_POST['email'])
             E-mail
         </h4>
         <p>
-            gradecak.ivan@gmail.com
+            villa.sol.adriatic@gmail.com
         </p>
     </div>   
 </div>
@@ -70,37 +52,37 @@ if(isset($_POST['fname']) &&  isset($_POST['lname']) &&  isset($_POST['email'])
 
 <div class="col-lg-12 contact_form">
     
-    <form name="contact_form" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" id="cform">
+    <form id="cform" action="javascript:void(0);" method="post">
         
-        <h4>Contact form</h4>
+        <h4>Kontaktni obrazac</h4>
         
         <div class="col-lg-6">
-            <label>Firstname</label>
-            <input type="text" name="fname" id="fname" class="cinput cglow" placeholder="Write your first name">
+            <label>Ime</label>
+            <input type="text" name="fname" id="fname" class="cinput cglow" placeholder="Upišite svoje ime">
         </div>
         
         <div class="col-lg-6">
-            <label>Lastname</label>
-            <input type="text" name="lname" id="lname" class="cinput cglow" placeholder="Write your last name">
+            <label>Prezime</label>
+            <input type="text" name="lname" id="lname" class="cinput cglow" placeholder="Upišite svoje prezime">
         </div>
         
         <div class="col-lg-6">
             <label>E-mail</label>
-            <input type="email" name="email" id="email" class="cinput cglow" placeholder="Write your email address">
+            <input type="email" name="email" id="email" class="cinput cglow" placeholder="Upišite svoju email adresu">
         </div>
         
         <div class="col-lg-6">
-            <label>Subject</label>
-            <input type="text" name="subject" id="subject" class="cinput cglow" placeholder="Write the subject of the email">
+            <label>Naslov</label>
+            <input type="text" name="subject" id="subject" class="cinput cglow" placeholder="Upišite naslov poruke">
         </div>
         
         <div class="col-lg-12">
-            <label>Message</label>
-            <textarea name="msg" class="cinput cglow" id="msg" rows="5" placeholder="Write the message of this email here"></textarea>
+            <label>Sadržaj</label>
+            <textarea name="msg" class="cinput cglow" id="msg" rows="5" placeholder="Upišite sadržaj poruke"></textarea>
         </div>
         
         <div class="col-lg-12">
-            <input type="submit" name="contact_form" id="csubmit" value="SEND MESSAGE">
+                <input type="submit" name="contact_form" id="csubmit" value="POŠALJI">
         </div>
         
     </form>

@@ -9,8 +9,8 @@
     <title>Villa Sol</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../static/css/bootstrap.css" rel="stylesheet">
-    <!--<link href="../static/css/bootstrap-theme.css" rel="stylesheet">-->
+    <link href="../static/css/bootstrap-min.css" rel="stylesheet">
+    <!--<link href="../static/css/bootstrap-theme-min.css" rel="stylesheet">-->
     <!-- Add custom CSS here -->
     <link href="../static/css/main.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="../static/img/fav.ico"/>
@@ -37,20 +37,20 @@
                     
                   <ul class="nav navbar-nav">
                     <li><a href="index.php">HOME</a></li>
-                    <li><a href="accomodation.php">ACCOMODATION</a></li>
-                    <li><a href="situation.php">SITUATION</a></li>
-                    <li><a href="reservation.php">RESERVATION</a></li>
-                    <li><a href="contact.php">CONTACT US</a></li>
+                    <li><a href="accomodation.php">SMJEŠTAJ</a></li>
+                    <li><a href="situation.php">LOKACIJA</a></li>
+                    <li><a href="reservation.php">REZERVACIJA</a></li>
+                    <li><a href="contact.php">KONTAKTIRAJTE NAS</a></li>
                     
                   </ul>
                   
                   <!-- Odabir jezika -->                    
                   <ul class="nav navbar-nav navbar-right flags">
-                      <li id="it" class="flag"><a class="nav-a" href="javascript:it;"><img src="../static/img/i.png"></a></li>
-                      <li id="fr" class="flag"><a class="nav-a" href="javascript:fr;"><img src="../static/img/fr.png"></a></li>
-                      <li id="de" class="flag"><a class="nav-a" href="javascript:de;"><img src="../static/img/de.png"></a></li>
-                      <li id="en" class="flag"><a class="nav-a" href="javascript:en;"><img src="../static/img/en.png"></a></li>
-                      <li id="hr" class="flag"><a class="nav-a" href="javascript:hr;"><img src="../static/img/cro.png"></a></li>   
+                      <li id="it" class="flag"><a class="nav-a" href="javascript:void(0);"><img src="../static/img/icons/i.png"></a></li>
+                      <li id="fr" class="flag"><a class="nav-a" href="javascript:void(0);"><img src="../static/img/icons/fr.png"></a></li>
+                      <li id="de" class="flag"><a class="nav-a" href="javascript:void(0);"><img src="../static/img/icons/de.png"></a></li>
+                      <li id="en" class="flag"><a class="nav-a" href="javascript:void(0);"><img src="../static/img/icons/en.png"></a></li>
+                      <li id="hr" class="flag"><a class="nav-a" href="javascript:void(0);"><img src="../static/img/icons/cro.png"></a></li>   
                   </ul>
             
             

@@ -6,13 +6,13 @@
 
 <div class="col-lg-12 reservation_txt">
     
-    <h4>Reservation</h4>
+    <h4>Rezervacija smještaja</h4>
     
     <p>
-        Piracy is typically an act of robbery or criminal violence at sea. 
-        The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. 
-        It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator 
-        (e.g. one passenger stealing from others on the same vessel).
+        Ukoliko želite rezervirati smještaj u ponuđenim slobodnim danima, kontaktirajte nas putem kontaktnog obrasca ili e-maila. 
+        Rezervacija smještaja prvenstveno je moguća u mjesecima navedenim u cjeniku uz minimalno 7 noćenja. 
+        Izražene cijene odnose se na jedno noćenje. Apartman je namijenjen boravku 4 do 6 osoba. Sigurnosni polog iznosi 200€.
+
     </p>
     
 </div>
@@ -22,26 +22,24 @@
 <div class="col-lg-12 reservation_info">  
     <div class="col-lg-12"> 
         <h4>
-            Prices
+            Cjenik
         </h4>       
         <div>
             <table class="rtable">
                 <thead>
                     <tr>
-                        <th>Month - <br>Month</th>
-                        <th>Month - <br>Month</th>
-                        <th>Month - <br>Month</th>
-                        <th>Month - <br>Month</th>
-                        <th>Month - <br>Month</th>
+                        <th>1. lipanj - <br>30. lipanj</th>
+                        <th>1. srpanj - <br>31. srpanj</th>
+                        <th>1. kolovoz - <br>31. kolovoz</th>
+                        <th>1. rujan - <br>30. rujan</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>300€</td>
-                        <td>300€</td>
-                        <td>300€</td>
-                        <td>300€</td>
-                        <td>300€</td>
+                        <td>150€</td>
+                        <td>250€</td>
+                        <td>250€</td>
+                        <td>180€</td>
                     </tr>
                 </tbody>
             </table>
@@ -54,11 +52,40 @@
 <div class="col-lg-12 reservation_calendar">
     <div class="col-lg-12">
         <h4>
-            Calendar
-        </h4>
-        <div class="calendar">
-            <img src="../static/img/calendar.png" alt="calendar.png">
+            Kalendar
+        </h4><br/>
+        
+    <div id="reservation_slider" class="reservation_gallery">
+        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 600px; height: 400px;
+            overflow: hidden;">
+            <div><img u="image" src="../static/img/calendar/hr_lipanj.png" /></div> 
+            <div><img u="image" src="../static/img/calendar/hr_srpanj.png" /></div>
+            <div><img u="image" src="../static/img/calendar/hr_kolovoz.png" /></div>
+            <div><img u="image" src="../static/img/calendar/hr_rujan.png" /></div>
         </div>
+        <style>
+            .jssora03l, .jssora03r, .jssora03ldn, .jssora03rdn
+            {
+            	position: absolute;
+            	cursor: pointer;
+            	display: block;
+                background: url(../static/img/jssor/a03.png) no-repeat;
+                overflow:hidden;
+            }
+            .jssora03l { background-position: -244px -33px; }
+            .jssora03r { background-position: -302px -33px; }
+            .jssora03l:hover { background-position: -123px -33px; }
+            .jssora03r:hover { background-position: -183px -33px; }
+            .jssora03ldn { background-position: -243px -33px; }
+            .jssora03rdn { background-position: -303px -33px; }
+        </style>
+        <span u="arrowleft" class="jssora03l" style="width: 55px; height: 55px; top: 173px; left: 0px;">
+        </span>
+        <span u="arrowright" class="jssora03r" style="width: 55px; height: 55px; top: 173px; right: 0px">
+        </span>
+    </div>
+
+    </div>
     </div>  
 </div>
         
