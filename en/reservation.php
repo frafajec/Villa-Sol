@@ -56,12 +56,36 @@
         </h4><br/>
         
     <div id="reservation_slider" class="reservation_gallery">
-        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 600px; height: 400px;
+        <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 800px; height: 400px;
             overflow: hidden;">
-            <div><img u="image" src="../static/img/calendar/hr_lipanj.png" /></div> 
-            <div><img u="image" src="../static/img/calendar/hr_srpanj.png" /></div>
-            <div><img u="image" src="../static/img/calendar/hr_kolovoz.png" /></div>
-            <div><img u="image" src="../static/img/calendar/hr_rujan.png" /></div>
+            <div>
+                <img u="image" src="../static/img/calendar/lipanj.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 80px; width: 250px; height: 45px;">
+                    LIPANJ
+                </div>
+            </div> 
+            <div>
+                <img u="image" src="../static/img/calendar/srpanj.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 80px; width: 250px; height: 45px;">
+                    SRPANJ
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/calendar/kolovoz.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 80px; width: 250px; height: 45px;">
+                    KOLOVOZ
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/calendar/rujan.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 80px; width: 250px; height: 45px;">
+                    RUJAN
+                </div>
+            </div>
         </div>
         <style>
             .jssora03l, .jssora03r, .jssora03ldn, .jssora03rdn
@@ -79,9 +103,9 @@
             .jssora03ldn { background-position: -243px -33px; }
             .jssora03rdn { background-position: -303px -33px; }
         </style>
-        <span u="arrowleft" class="jssora03l" style="width: 55px; height: 55px; top: 173px; left: 0px;">
+        <span u="arrowleft" class="jssora03l" style="width: 55px; height: 55px; top: 150px; left: 0px;">
         </span>
-        <span u="arrowright" class="jssora03r" style="width: 55px; height: 55px; top: 173px; right: 0px">
+        <span u="arrowright" class="jssora03r" style="width: 55px; height: 55px; top: 150px; right: 0px">
         </span>
     </div>
 

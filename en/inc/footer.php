@@ -1,7 +1,7 @@
 </div> <!-- container -->
 <footer id="footer">
     <div class="container">
-        <div class="row">
+        <div class="row" style="width: 100%;">
             <div class="col-lg-6 main_contact">
                     <h4>KONTAKT</h4>
 
@@ -25,15 +25,16 @@
                     </div> <!-- widget -->
 
             </div><!-- /col-lg-6 -->
-            
-            <div class="col-lg-12 signature">All rights reserved. Developed by <span class="glyphicon glyphicon-copyright-mark"></span><a href="http://www.siginum.com/" target="_blank">Siginum</a></div>
+
             <div class="col-lg-12 crta"></div><!-- /col-lg-12 -->
             
             <div class="end">
                 <div class="col-lg-2"><h4>Villa Sol</h4></div><!-- /col-lg-6 -->
                 <div class="col-lg-2" style="text-align: right;"><h4>2015</h4></div><!-- /col-lg-6 -->
             </div>
-            
+            <br/>
+            <br/>
+            <div class="col-lg-12 signature">All rights reserved. Developed by <span class="glyphicon glyphicon-copyright-mark"></span><a href="http://www.siginum.com/" target="_blank">Siginum</a></div>
         </div>
     </div>
 </footer>

@@ -36,7 +36,7 @@
         <a href="http://www.visitsplit.com">Split</a> - 53km, 60 minuta vožnje <br>
         <a href="http://www.sibenik-tourism.hr/hr/grad-sibenik">Šibenik</a> - 44km, 55 minuta vožnje <br>
         <a href="http://www.npkrka.hr">Nacionalni park Krka</a> - 55km, 65 minuta vožnje <br>
-        <a href="http://www.np-kornati.hr">Nacionalni park Kornati</a> <br>
+        <a href="http://www.np-kornati.hr">Nacionalni park Kornati</a>- 18km, 25 minuta vožnje (Primošten) <br>
     </p>
     
 </div>

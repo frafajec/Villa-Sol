@@ -76,7 +76,7 @@ $(document).ready(function(){
               success: function (output) { 
                 if(output) {
                     alert("Email was successfully sent.");
-                    location.reload(false);
+                    window.location.href = "contact.php";
                 } else {
                     alert("Something went wrong...\nEmail was not sent!");
                 }
@@ -169,22 +169,46 @@ $(document).ready(function ($) {
     //slider for reservation calendars
     if ($.find('#reservation_slider') != false) {
         var options = {
-            $DragOrientation: 3,
-            $ArrowNavigatorOptions: {
-                $Class: $JssorArrowNavigator$,
-                $ChanceToShow: 2,
-                $AutoCenter: 0,
-                $Steps: 1
-            }
-        };
+
+                $ArrowKeyNavigation: true,   			            //Allows arrow key to navigate or not
+                $SlideWidth: 400,                                   //[Optional] Width of every slide in pixels, the default is width of 'slides' container
+                //$SlideHeight: 350,                                  //[Optional] Height of every slide in pixels, the default is width of 'slides' container
+                $SlideSpacing: 0, 					                //Space between each slide in pixels
+                $DisplayPieces: 2,                                  //Number of pieces to display (the slideshow would be disabled if the value is set to greater than 1), the default value is 1
+                $ParkingPosition: 200,                                //The offset position to park slide (this options applys only when slideshow disabled).
+                
+                $ArrowNavigatorOptions: {                       //[Optional] Options to specify and enable arrow navigator or not
+                    $Class: $JssorArrowNavigator$,              //[Requried] Class to create arrow navigator instance
+                    $ChanceToShow: 2,                               //[Required] 0 Never, 1 Mouse Over, 2 Always
+                    $AutoCenter: 2,                                 //[Optional] Auto center arrows in parent container, 0 No, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+                    $Steps: 1                                      //[Optional] Steps to go for each navigation request, default value is 1
+                },
+                
+                $ThumbnailNavigatorOptions: {
+                    $Class: $JssorThumbnailNavigator$,
+                    $ChanceToShow: 2,
+                    $ActionMode: 1,
+                    $SpacingX: 8,
+                    $DisplayPieces: 2,
+                    $ParkingPosition: 200
+                }
+                
+            };
         var jssor_slider2 = new $JssorSlider$("reservation_slider", options);
         function ScaleSlider_reservation() {
             var parentWidth = jssor_slider2.$Elmt.parentNode.clientWidth;
-            jssor_slider2.$ScaleWidth(Math.max(Math.min(parentWidth, 600), 180));;
+            if (parentWidth > 767)
+                jssor_slider2.$ScaleWidth(Math.max(Math.min(parentWidth, 800), 180));
+            else
+                jssor_slider2.$ScaleWidth(Math.max(Math.min(parentWidth, 700), 180));
+            
         }
         ScaleSlider_reservation();
+//        $(window).bind("load", ScaleSlider);
+//        $(window).bind("resize", ScaleSlider);
+//        $(window).bind("orientationchange", ScaleSlider);
         if (!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|IEMobile)/)) {
-            $(window).bind('resize', ScaleSlider);
+            $(window).bind('resize', ScaleSlider_reservation);
         }
     }
 }); //end on document for sliders

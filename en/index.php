@@ -4,12 +4,12 @@
     
 
         <h4>DOBRODOŠLI U VILLU SOL</h4><br>
-        <p>Mjesto za vaš idealan odmor. <br><br><br><br><br> </p>       <!-- BRove sam ti tu stavil! -->
+        <p>Mjesto za vaš idealan odmor. <br><br><br><br><br> </p>
     
 </div>
     
 <!-- tekst na main -->
-<br><br>                                        <!-- 2 BR sam ti tu stavil! -->
+<br><br>
 <div class="col-lg-12 main_txt">
     <h4>MALO MJESTO KANICA</h4>
     
@@ -26,7 +26,7 @@
         </p>
     </div> 
     <img src="../static/img/page/glavna_romantika.jpg" class="main_tumb img-rounded img-responsive">
-    <br><br>                                    <!-- 2 BR sam ti tu stavil! -->
+    <br><br>
     
 </div>
 
@@ -47,7 +47,7 @@
         </p>
     </div>
     <img src="../static/img/page/glavna_apartman.jpg" class="main_tumb img-rounded img-responsive">
-    <br><br>                                    <!-- 2 BR sam ti tu stavil! -->
+    <br><br>
     
 </div>
 
@@ -65,7 +65,7 @@
         </p>
     </div>
     <img src="../static/img/page/glavna_okolica.jpg" class="main_tumb img-rounded img-responsive">
-    <br><br>                                <!-- 2 BR sam ti tu stavil! -->
+    <br><br>
     
 </div>   
        

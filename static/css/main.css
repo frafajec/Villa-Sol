@@ -47,13 +47,17 @@ body {
 .crta {
     border: 1.5px solid black;
     border-radius: 25px;
-    //margin-top: 4%;
+    margin-top: 4%;
 }
 .signature {
-    margin-top: 4%;
+    //margin-top: 4%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    color: #000;
+}
+.glyphicon {
+    top: 3px;
 }
 .end div{
     width: 50%;
@@ -114,7 +118,7 @@ body {
     left:0;right:0; */
 }
 .main_img {
-    background: url("../img/panoramic/index_sea.jpg") center center fixed no-repeat;
+    background: url("../img/panoramic/index_sea_1920.jpg") center center fixed no-repeat;
     max-width: 100%;
     height: 100%;
     width: auto;
@@ -122,6 +126,7 @@ body {
     min-width: 100%;
     min-height: 100%; 
     text-shadow: 0px 0px 5px #000;
+    background-position: top;
 }
 .main_img p {
     font-size: 3.16em;
@@ -440,8 +445,16 @@ body {
     position: relative; 
     top: 0px; 
     left: 0px; 
-    width: 600px;
+    width: 800px;
     height: 400px; 
+}
+.reservation_gallery .calendar_text {
+    color: #000;
+    font-family: times new roman;
+    font-size: 3em;
+    font-style: italic;
+    font-weight: bold;
+    //text-align: center;
 }
 .rtable {
     text-align: center;
@@ -482,7 +495,7 @@ body {
 .jssor_text {
     font-family: times new roman;
     font-style: italic;
-    font-size: 1.6em;
+    font-size: 2em;
     color: #aaa;
     text-align: center;
     /*border: 0.5px solid #000;*/
@@ -495,6 +508,20 @@ body {
 .jssort01 {
     background-image: linear-gradient(to bottom, #c1c1c1 100%, #a0a0a0 0%);
 }
+.accomodation_header {
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 3%;
+}
+.accomodation_text {
+    color: #777;
+    font-family: times new roman;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
 /* ------------ */
 /* media fields */
 /* ------------ */
@@ -546,6 +573,7 @@ body {
 @media (max-width: 1280px) {
     .main_img {
         padding-bottom: 8%;
+        background: url("../img/panoramic/index_sea_1280.jpg") fixed no-repeat left top;
     }
     .main_img h4 {
         padding-top: 5px;
@@ -565,6 +593,9 @@ body {
     .end div:first-child {
         width: 35%;
         margin-left: 7.5%;
+    }
+    .jssor_text {
+        font-size: 2.4em;
     }
 }
 
@@ -599,6 +630,9 @@ body {
         width: 100%;
         padding: 0;
     }
+    .jssor_text {
+        font-size: 3.2em;
+    }
     .main_contact {
         margin-left: auto;
         margin-right: auto;
@@ -628,7 +662,7 @@ body {
     .signature {
         float: left;
         margin-left: 33%;
-        margin-top: 4%;
+        //margin-top: 4%;
     }
 }
 
@@ -694,6 +728,12 @@ body {
     #slider1_container {
         margin-top: -39px;
     }
+    .jssor_text {
+        font-size: 4em;
+    }
+    .reservation_gallery .calendar_text {
+        font-size: 4em;
+    }
 }
 
 @media (max-width: 850px) {
@@ -742,6 +782,9 @@ body {
     .main_txt {
         margin-top: 5%;
         margin-bottom: 2%;
+    }
+    .main_img {
+        background: url("../img/panoramic/index_sea_767.jpg") fixed no-repeat left top;
     }
     .crta {
         width: 75%;
@@ -803,9 +846,19 @@ body {
     #slider1_container {
         margin-top: -42px;
     }
-    .signature {
-        float: none;
-        margin-left: auto;
+    .jssor_text {
+        font-size: 5em;
+        padding-top: 12px;
+    }
+    .reservation_calendar {
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+    .reservation_gallery .calendar_text {
+        font-size: 4.5em;
+        padding-top: 5px;
     }
 }
 
@@ -842,6 +895,14 @@ body {
     }
     .contact_panorama, .reservation_panorama, .situation_panorama {
         padding-bottom: 40%;
+    }
+    .jssor_text {
+        font-size: 5.5em;
+    }
+}
+@media (max-width: 550px) {
+    .signature {
+        margin-left: 30%;
     }
 }
 @media (max-width: 400px) {
@@ -901,6 +962,9 @@ body {
     }
     .main_img p {
         font-size: 2.16em;
+    }
+    .signature {
+        margin-left: 25%;
     }
 }
 @media (max-width: 250px) {
