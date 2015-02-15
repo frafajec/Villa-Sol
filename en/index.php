@@ -3,26 +3,25 @@
 <div class="main_img">
     
 
-        <h4>DOBRODOŠLI U VILLU SOL</h4><br>
-        <p>Mjesto za vaš idealan odmor. <br><br><br><br><br> </p>
+        <h4>WELCOME TO VILLA SOL</h4><br>
+        <p>A place for your perfect holiday.<br><br><br><br><br> </p>
     
 </div>
     
 <!-- tekst na main -->
 <br><br>
 <div class="col-lg-12 main_txt">
-    <h4>MALO MJESTO KANICA</h4>
+    <h4>LITTLE VILLAGE OF KANICA</h4>
     
     <div class="col-lg-6 line"></div>
     
     <div class="col-lg-12">
         <p>
-            Malo naselje nadomak Rogoznice položeno u lijepoj uvali duž čije obale se prostiru plaže za svačiji ukus od plitke
-            pješčane i šljunčane do kamene. Uronjena u zadivljujuću prirodu bez okolne naseljenosti Kanica pruža izoliranost od
-            užurbane svakodnevice, a opet nadohvat okolnih atraktivnih turističkih odredišta. S obzirom na
-            specifični zemljopisni položaj, mjestu je osigurana izuzetno dobra mikroklima s puno sunčanih dana,  bez jakih vjetrova.
-            Kristalno čisto more svojom modrinom ostavlja nestvarni dojam dalekih obala. Ovo čarobno podneblje zaista nam može
-            pružiti opuštenost i mir, a naposlijetku i želju za povratkom.
+            It is a little place near Rogoznica, situated in a beautiful bay with beaches to everyone’s taste – shallow sandy beaches, 
+            gravel or rocky ones. Immersed in stunning nature, no other settlements surrounding it, Kanica provides isolation from busy 
+            everyday life, and yet it is very near attractive tourist destinations. Thanks to its particular geographic location, it 
+            has a great microclimate with lots of sunny days and no strong winds. Crystal clear blue sea lets your imagination take you 
+            to far away beaches. This magical atmosphere can really provide relaxation and peace, and it invites you to come back.
         </p>
     </div> 
     <img src="../static/img/page/glavna_romantika.jpg" class="main_tumb img-rounded img-responsive">
@@ -31,18 +30,16 @@
 </div>
 
 <div class="col-lg-12 main_txt">
-    <h4>APARTMAN ZA VAS</h4>
+    <h4>AN APARTMENT FOR YOU</h4>
     
     <div class="col-lg-6 line"></div>
     
     <div class="col-lg-12">
         <p>
-            Prostrani apartman veličine 90 m2 te tri terase ukupne veličine 50 m2. Izgrađen na dvije etaže, 
-            jednostavan i moderan dizajn prostora daje osjećaj mira i sklada s Mediteranom. 
-            U prizemlju se nalazi prostrani dnevni boravak s kuhinjom i blagovaonicom te kupaonica i ostava. 
-            Ispred dnevnog boravka prostire se velika sunčana terasa. Gornji dio čine dvije spavaće sobe, 
-            kupaonica te terase s otvorenim pogledom na uvalu i morsku pučinu. Apartman je namijenjen za ugodan 
-            boravak 4 do 6 osoba i nalazi se tek 70 metara od plaže.
+            A spacious 90m2 apartment with three terraces - 50m2 in total. Two floors, easy and modern design, which gives you the sense 
+            of peace and is in harmony with the Mediterranean. The ground floor consists of a living room, kitchen and a dining room, bathroom 
+            and utility room. The living room opens up to a big, sunny terrace. The first floor consists of two bedrooms, a bathroom and 
+            terraces overlooking the bay. 4 to 6 persons can comfortably stay in the apartment, which is only 70 meters from the beach.
 
         </p>
     </div>
@@ -52,16 +49,16 @@
 </div>
 
 <div class="col-lg-12 main_txt">
-    <h4>SREDNJA DALMACIJA</h4>
+    <h4>CENTRAL DALMATIA</h4>
     
     <div class="col-lg-6 line"></div>
     
     <div class="col-lg-12">
         <p>
-            U blizini Kanice nalaze se gradovi koji u svojoj kulturnoj baštini imaju sačuvanu dugu povijest Mediterana.
-            Najbliži gradovi Rogoznica i Primošten udaljeni su 15 minuta vožnje. Veći gradovi poput Šibenika sa starom gradskom
-            jezgrom i znamenitom katedralom sv. Jakova te grad Split sa Dioklecijanovom palačom udaljeni su tek sat vremena vožnje,
-             a tu je i prilika da razgledate poznati nacionalni park rijeke Krke te nacionalni park Kornati.
+            Towns with long Mediterranean history and cultural heritage are near Kanica. The nearest towns of Rogoznica and Primošten are 
+            only 15 minute drive from Kanica. Larger towns like Šibenik with its historical centre and famous St. Jacob’s Cathedral and Split 
+            with Diocletian’s Palace - are only an hour drive away. You also have the opportunity to see nearby national parks: The river Krka 
+            and The Kornati islands. 
         </p>
     </div>
     <img src="../static/img/page/glavna_okolica.jpg" class="main_tumb img-rounded img-responsive">

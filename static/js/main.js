@@ -1,19 +1,17 @@
 $(document).ready(function(){
     
-    //tooltips for form help
-    $('#fname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'This field is required!', 'delay': {"show": 600, "hide": 500}});
-    $('#lname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'This field is required!', 'delay': {"show": 600, "hide": 500}});
-    $('#email').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Example: john.doe@gmail.com. This field is required!', 'delay': {"show": 600, "hide": 500}});
-    $('#msg').tooltip({'triger': 'focus', 'container': 'body', 'title': 'State your interests, questions etc. This field is required!', 'delay': {"show": 600, "hide": 500}});
-    $('#subject').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Few words about this message. This field is required!', 'delay': {"show": 600, "hide": 500}});
-        
     $('.flag').click( function(){ //language change
         var lng = $(this).attr("id"), _URL = '';
-        if (lng == 'fr' || lng == 'de' || lng == 'hr' || lng == 'it') lng = 'en'; //THIS is only until those languages are implemented!
         $.cookie("villa-sol-language", null, { path: '/' });
         $.cookie("villa-sol-language", lng, {expires:1825, path:'/'});
-        _URL = (document.URL).split('.php')[0] + '.php';
-        window.location.replace("../" + lng + "/" + _URL.split('/').slice(-1));        
+        if ((document.URL).indexOf('.php') > -1) { 
+            _URL = (document.URL).split('.php')[0] + '.php';
+            window.location.replace("../" + lng + "/" + _URL.split('/').slice(-1));
+        } else {
+            _URL = document.URL;
+            window.location.replace("../" + lng);
+        }
+               
     });
     $('a').click(function (e) { //on link click fadeout
         e.preventDefault();
@@ -25,6 +23,7 @@ $(document).ready(function(){
             window.location = goTo;
         },400);       
     });
+    
     /* contact form validation */
     $('#csubmit').click(function(e) { //form validation before sending ajax call
        $('#cform input[type=text], input[type=email], textarea').each(function() {
@@ -70,19 +69,63 @@ $(document).ready(function(){
         ];  
         //send for additional validation if required   
         $.ajax({
-              url: "inc/send_email.php",
+              url: "../static/php/send_email.php",
               type: "POST",
               data: {params : form_data},
               success: function (output) { 
                 if(output) {
-                    alert("Email was successfully sent.");
+                    var lang = $.cookie('villa-sol-language');
+                    if (lang == 'hr') alert("Email je uspješno poslan.");
+                    if (lang == 'en') alert("Email was successfully sent.");
+                    if (lang == 'de') alert("E-Mail wurde erfolgreich versendet.");
+                    if (lang == 'it') alert("Mail è stata inviata.");
+                    if (lang == 'fr') alert("Mail a été envoyé avec succès.");
                     window.location.href = "contact.php";
                 } else {
-                    alert("Something went wrong...\nEmail was not sent!");
+                    var lang = $.cookie('villa-sol-language');
+                    if (lang == 'hr') alert("Nešto je pošlo po zlu...\nEmail nije poslan.");
+                    if (lang == 'en') alert("Something went wrong...\nEmail was not sent.");
+                    if (lang == 'de') alert("Da lief was falsch ...\nEmail wurde nicht gesendet.");
+                    if (lang == 'it') alert("Qualcosa è andato storto ...\nEmail non è stato inviato.");
+                    if (lang == 'fr') alert("Quelque chose se est mal passé ...\nEmail n'a pas été envoyé");
                 }
             }
             });
    });
+   
+   //tooltips for form help
+    if($.cookie('villa-sol-language') == 'hr') {
+        $('#fname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Ovo polje je obavezno!', 'delay': {"show": 600, "hide": 500}});
+        $('#lname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Ovo polje je obavezno!', 'delay': {"show": 600, "hide": 500}});
+        $('#email').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Primjer: john.doe@gmail.com. Ovo polje je obavezno!', 'delay': {"show": 600, "hide": 500}});
+        $('#msg').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Upišite svoje interese, pitanja itd. Ovo polje je obavezno!', 'delay': {"show": 600, "hide": 500}});
+        $('#subject').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Naslov poruke. Ovo polje je obavezno!', 'delay': {"show": 600, "hide": 500}});
+    } if($.cookie('villa-sol-language') == 'en') {
+        $('#fname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'This field is required!', 'delay': {"show": 600, "hide": 500}});
+        $('#lname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'This field is required!', 'delay': {"show": 600, "hide": 500}});
+        $('#email').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Example: john.doe@gmail.com. This field is required!', 'delay': {"show": 600, "hide": 500}});
+        $('#msg').tooltip({'triger': 'focus', 'container': 'body', 'title': 'State your interests, questions etc. This field is required!', 'delay': {"show": 600, "hide": 500}});
+        $('#subject').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Few words about this message. This field is required!', 'delay': {"show": 600, "hide": 500}});
+    } if($.cookie('villa-sol-language') == 'de') {
+        $('#fname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Dieses Feld ist erforderlich!', 'delay': {"show": 600, "hide": 500}});
+        $('#lname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Dieses Feld ist erforderlich!', 'delay': {"show": 600, "hide": 500}});
+        $('#email').tooltip({'triger': 'focus', 'container': 'body', 'title': 'B.S.: john.doe@gmail.com. Dieses Feld ist erforderlich!', 'delay': {"show": 600, "hide": 500}});
+        $('#msg').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Geben Sie Ihre Interessen, Fragen, etc. Dieses Feld ist erforderlich!', 'delay': {"show": 600, "hide": 500}});
+        $('#subject').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Ein paar Worte über diese Botschaft. Dieses Feld ist erforderlich!', 'delay': {"show": 600, "hide": 500}});
+    } if($.cookie('villa-sol-language') == 'it') {
+        $('#fname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Questo campo è obbligatorio!', 'delay': {"show": 600, "hide": 500}});
+        $('#lname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Questo campo è obbligatorio!', 'delay': {"show": 600, "hide": 500}});
+        $('#email').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Esempio: john.doe@gmail.com. Questo campo è obbligatorio!', 'delay': {"show": 600, "hide": 500}});
+        $('#msg').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Dica il suo interesse, domande ecc. Questo campo è obbligatorio!', 'delay': {"show": 600, "hide": 500}});
+        $('#subject').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Poche parole su questo messaggio. Questo campo è obbligatorio!', 'delay': {"show": 600, "hide": 500}});
+    } if($.cookie('villa-sol-language') == 'fr') {
+        $('#fname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Ce champ est obligatoire!', 'delay': {"show": 600, "hide": 500}});
+        $('#lname').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Ce champ est obligatoire!', 'delay': {"show": 600, "hide": 500}});
+        $('#email').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Exemple: john.doe@gmail.com. Ce champ est obligatoire!', 'delay': {"show": 600, "hide": 500}});
+        $('#msg').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Formulez vos intérêts, des questions etc. Ce champ est obligatoire!', 'delay': {"show": 600, "hide": 500}});
+        $('#subject').tooltip({'triger': 'focus', 'container': 'body', 'title': 'Quelques mots sur ce message. Ce champ est obligatoire!', 'delay': {"show": 600, "hide": 500}});
+    }
+   
 }); //end on document for global
 
 //jssor gallery initialization

@@ -3,15 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Adriatic sea apartment renting.">
+    <meta name="keywords" content="Adria, Adriatic, sea, vacation, renting, villa, sun, relax">
+    <meta name="author" content="siginum.com">
+    <meta lang="en">
 
     <title>Villa Sol</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../static/css/bootstrap-min.css" rel="stylesheet">
     <!--<link href="../static/css/bootstrap-theme-min.css" rel="stylesheet">-->
-    <!-- Add custom CSS here -->
     <link href="../static/css/main.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="../static/img/fav.ico"/>
 
@@ -37,10 +38,10 @@
                     
                   <ul class="nav navbar-nav">
                     <li><a href="index.php">HOME</a></li>
-                    <li><a href="accomodation.php">SMJEŠTAJ</a></li>
-                    <li><a href="situation.php">LOKACIJA</a></li>
-                    <li><a href="reservation.php">REZERVACIJA</a></li>
-                    <li><a href="contact.php">KONTAKTIRAJTE NAS</a></li>
+                    <li><a href="accomodation.php">ACCOMODATION</a></li>
+                    <li><a href="situation.php">LOCATION</a></li>
+                    <li><a href="reservation.php">RESERVATION</a></li>
+                    <li><a href="contact.php">CONTACT US</a></li>
                     
                   </ul>
                   
@@ -58,7 +59,7 @@
       </div>
     </div>
     
-<div class="all">  
+<div class="all en">  
 <div class="container main">
             
           

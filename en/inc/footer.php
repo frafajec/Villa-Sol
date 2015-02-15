@@ -3,10 +3,10 @@
     <div class="container">
         <div class="row" style="width: 100%;">
             <div class="col-lg-6 main_contact">
-                    <h4>KONTAKT</h4>
+                    <h4>CONTACT</h4>
 
                     <div><p style="color: black; font-weight: bold;">Villa Sol</p><br></div>
-                    <div><p class="makija">Adresa: </p><p style="color: black;"> Kanica 160c, Rogoznica, Hrvatska</p><br></div>
+                    <div><p class="makija">Address: </p><p style="color: black;"> Kanica 160c, Rogoznica, Hrvatska</p><br></div>
                     <div><p class="makija">Skype: </p><p style="color: black;">VillaSolAdriatic</p><br></div>
                     <div><p class="makija">Email: </p><p style="color: black;">villa.sol.adriatic@gmail.com</p><br></div>
 

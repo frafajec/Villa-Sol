@@ -6,13 +6,12 @@
 
 <div class="col-lg-12 reservation_txt">
     
-    <h4>Rezervacija smještaja</h4>
+    <h4>Accommodation booking</h4>
     
     <p>
-        Ukoliko želite rezervirati smještaj u ponuđenim slobodnim danima, kontaktirajte nas putem kontaktnog obrasca ili e-maila. 
-        Rezervacija smještaja prvenstveno je moguća u mjesecima navedenim u cjeniku uz minimalno 7 noćenja. 
-        Izražene cijene odnose se na jedno noćenje. Apartman je namijenjen boravku 4 do 6 osoba. Sigurnosni polog iznosi 200€.
-
+        If you wish to book accommodation during date ranges stated below, please contact us via contact form or e-mail. 
+        Accommodation booking is possible for the months listed in our price list with the minimum of 7 overnight stays. 
+        The prices are for one overnight stay. The apartment is for 4 to 6 persons. The deposit is €200.
     </p>
     
 </div>
@@ -22,16 +21,16 @@
 <div class="col-lg-12 reservation_info">  
     <div class="col-lg-12"> 
         <h4>
-            Cjenik
+            Price list
         </h4>       
         <div>
             <table class="rtable">
                 <thead>
                     <tr>
-                        <th>1. lipanj - <br>30. lipanj</th>
-                        <th>1. srpanj - <br>31. srpanj</th>
-                        <th>1. kolovoz - <br>31. kolovoz</th>
-                        <th>1. rujan - <br>30. rujan</th>
+                        <th>01 June - <br>30 June</th>
+                        <th>01 July - <br>31. July</th>
+                        <th>01 August - <br>31 August</th>
+                        <th>01 September  - <br>30 September </th>
                     </tr>
                 </thead>
                 <tbody>
@@ -52,7 +51,7 @@
 <div class="col-lg-12 reservation_calendar">
     <div class="col-lg-12">
         <h4>
-            Kalendar
+            Calendar
         </h4><br/>
         
     <div id="reservation_slider" class="reservation_gallery">
@@ -61,29 +60,29 @@
             <div>
                 <img u="image" src="../static/img/calendar/lipanj.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
-                top: 22px; left: 80px; width: 250px; height: 45px;">
-                    LIPANJ
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    JUNE
                 </div>
             </div> 
             <div>
                 <img u="image" src="../static/img/calendar/srpanj.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
-                top: 22px; left: 80px; width: 250px; height: 45px;">
-                    SRPANJ
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    JULY
                 </div>
             </div>
             <div>
                 <img u="image" src="../static/img/calendar/kolovoz.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
-                top: 22px; left: 80px; width: 250px; height: 45px;">
-                    KOLOVOZ
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    AUGUST
                 </div>
             </div>
             <div>
                 <img u="image" src="../static/img/calendar/rujan.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
-                top: 22px; left: 80px; width: 250px; height: 45px;">
-                    RUJAN
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    SEPTEMBER
                 </div>
             </div>
         </div>

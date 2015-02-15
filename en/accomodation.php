@@ -22,15 +22,15 @@
                 <img u="thumb" src="../static/img/gallery/izvana2_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Apartman izvana, terase s pogledom na more.
+                    Apartment from the outside terrace overlooking the sea.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Apartman izvana, terase s pogledom na more.
+                    Apartment from the outside terrace overlooking the sea.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Apartman izvana, terase s pogledom na more.
+                    Apartment from the outside terrace overlooking the sea.
                 </div>
             </div>
             <div>
@@ -38,15 +38,15 @@
                 <img u="thumb" src="../static/img/gallery/cesta_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Ulična strana kuće s prostorom za parkiranje.
+                    The street side of the house with room for parking.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Ulična strana kuće s prostorom za parkiranje.
+                    The street side of the house with room for parking.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Ulična strana kuće s prostorom za parkiranje.
+                    The street side of the house with room for parking.
                 </div>
             </div>
             <div>
@@ -54,15 +54,15 @@
                 <img u="thumb" src="../static/img/gallery/donji_kat_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Donji kat. Kuhinja s blagovaonicom.
+                    Ground floor. Kitchen with dining room.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Donji kat. Kuhinja s blagovaonicom.
+                    Ground floor. Kitchen with dining room.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Donji kat. Kuhinja s blagovaonicom.
+                    Ground floor. Kitchen with dining room.
                 </div>
             </div>
             <div>
@@ -70,18 +70,18 @@
                 <img u="thumb" src="../static/img/gallery/kuhinja_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 620px; left: 200px; width: 1000px; height: 70px;">
-                    Kuhinja sa velikim hladnjakom i ledenicom, pećnicom, mikrovalnom pećnicom, perilicom posuđa,
-                    aparata za kavu i ostalog pribora. 
+                    There is a big refrigerator with freezer, built in cooker and oven, microwave oven, dishwasher, 
+                    coffee machine and all the other kitchen utensils.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 600px; left: 200px; width: 1000px; height: 85px;">
-                    Kuhinja sa velikim hladnjakom i ledenicom, pećnicom, mikrovalnom pećnicom, perilicom posuđa,
-                    aparata za kavu i ostalog pribora. 
+                    There is a big refrigerator with freezer, built in cooker and oven, microwave oven, dishwasher, 
+                    coffee machine and all the other kitchen utensils. 
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 555px; left: 200px; width: 1000px; height: 135px;">
-                    Kuhinja sa velikim hladnjakom i ledenicom, pećnicom, mikrovalnom pećnicom, perilicom posuđa,
-                    aparata za kavu i ostalog pribora. 
+                    There is a big refrigerator with freezer, built in cooker and oven, microwave oven, dishwasher, 
+                    coffee machine and all the other kitchen utensils.
                 </div>
             </div>
             <div>
@@ -89,15 +89,15 @@
                 <img u="thumb" src="../static/img/gallery/kauc_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Donji kat, dnevni boravak. Kauč koji se može razvući u ležaj.
+                    Ground floor. Living room. Sofa bed.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Donji kat, dnevni boravak. Kauč koji se može razvući u ležaj.
+                    Ground floor. Living room. Sofa bed.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Donji kat, dnevni boravak. Kauč koji se može razvući u ležaj.
+                    Ground floor. Living room. Sofa bed.
                 </div>
             </div>
             <div>
@@ -105,15 +105,15 @@
                 <img u="thumb" src="../static/img/gallery/kupaona2_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Donji kat, kupaonica. Sastoji se od tuš kabine, umivaonika i zahoda.
+                    Ground floor. Bathroom. Shower cabin, basin and a toilet.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Donji kat, kupaonica. Sastoji se od tuš kabine, umivaonika i zahoda.
+                    Ground floor. Bathroom. Shower cabin, basin and a toilet.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Donji kat, kupaonica. Sastoji se od tuš kabine, umivaonika i zahoda.
+                    Ground floor. Bathroom. Shower cabin, basin and a toilet.
                 </div>
             </div>
             <div>
@@ -121,15 +121,15 @@
                 <img u="thumb" src="../static/img/gallery/terasa_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Pogled s donje terase sa sjedećom garniturom.
+                    View from the lower terrace with terrace furniture.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Pogled s donje terase sa sjedećom garniturom.
+                    View from the lower terrace with terrace furniture.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Pogled s donje terase sa sjedećom garniturom.
+                    View from the lower terrace with terrace furniture.
                 </div>
             </div>
             <div>
@@ -137,15 +137,15 @@
                 <img u="thumb" src="../static/img/gallery/spavaca1_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Gornji kat, klimatizirana spavaća soba s bračnim krevetom i izlazom na terasu. 
+                    First floor, air-conditioned double bedroom, access to the terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 100px; width: 1200px; height: 65px;">
-                    Gornji kat, klimatizirana spavaća soba s bračnim krevetom i izlazom na terasu. 
+                    First floor, air-conditioned double bedroom, access to the terrace. 
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 100px; width: 1200px; height: 85px;">
-                    Gornji kat, klimatizirana spavaća soba s bračnim krevetom i izlazom na terasu. 
+                    First floor, air-conditioned double bedroom, access to the terrace. 
                 </div>
             </div>
             <div>
@@ -153,15 +153,15 @@
                 <img u="thumb" src="../static/img/gallery/spavaca2_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Gornji kat, klimatizirana spavaća soba s 2 odvojena kreveta i izlazom na malu terasu.
+                    First floor, air-conditioned twin bedroom, access to the small terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 100px; width: 1200px; height: 65px;">
-                    Gornji kat, klimatizirana spavaća soba s 2 odvojena kreveta i izlazom na malu terasu.
+                    First floor, air-conditioned twin bedroom, access to the small terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 100px; width: 1200px; height: 85px;">
-                    Gornji kat, klimatizirana spavaća soba s 2 odvojena kreveta i izlazom na malu terasu.
+                    First floor, air-conditioned twin bedroom, access to the small terrace.
                 </div>
             </div>
             <div>
@@ -169,15 +169,15 @@
                 <img u="thumb" src="../static/img/gallery/kupaona1_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Gornji kat, kupaonica. Sastoji se od tuš kabine, umivaonika i zahoda.
+                    First floor, bathroom. Shower cabin, basin and toilet.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Gornji kat, kupaonica. Sastoji se od tuš kabine, umivaonika i zahoda.
+                    First floor, bathroom. Shower cabin, basin and toilet.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Gornji kat, kupaonica. Sastoji se od tuš kabine, umivaonika i zahoda.
+                    First floor, bathroom. Shower cabin, basin and toilet.
                 </div>
             </div>
             
@@ -186,15 +186,15 @@
                 <img u="thumb" src="../static/img/gallery/plaza_thumb.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Uređena plaža za sunčanje i kupanje ispod kuće udaljena 70 metara. 
+                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Uređena plaža za sunčanje i kupanje ispod kuće udaljena 70 metara. 
+                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Uređena plaža za sunčanje i kupanje ispod kuće udaljena 70 metara. 
+                    Well maintained beach for sunbathing and swimming, 70 meters from the house. 
                 </div>
             </div>
 <!--            <div>
@@ -301,35 +301,35 @@
     </div>
     <!-- Jssor Slider End -->
     
-    <h4 class="accomodation_header">OPIS SMJEŠTAJA</h4>
+    <h4 class="accomodation_header">ACCOMODATION</h4>
     <div class="col-lg-6 line"></div>
     
     <div class="col-lg-4 col-lg-push-4 center-block accomodation_text">
         
         <p>
-            <p>Apartman za 4+2 osobe</p>
-            <p>Površina dvorišta 555 m2</p>
-            <p>Objekt: površine 181 m2, novogradnja, toplinska izolacija</p>
-            <p>Prizemlje:</p>
+            <p>Apartment for 4 to 2 persons</p>
+            <p>Courtyard area of 555m2</p>
+            <p>House: 181m2, newly built, thermal insulation</p>
+            <p>Ground floor:</p>
             <ul>
-                <li>Dnevni boravak (LCD TV, kabelska televizija, internet, WI-FI, audio-stereo uređaj, dvosjed – pomoćni krevet)</li>
-                <li>Kuhinja (ploča za kuhanje i pećnica, napa, mikrovalna pećnica, aparat za kavu, veliki hladnjak s ledenicom, perilica posuđa)</li>
-                <li>Kupaonica s WC-om (tuš kabina, stroj za pranje rublja, sušilo za kosu)</li>
-                <li>Velika terasa (35 m2) s vrtnom garniturom, s pogledom na more </li>
-                <li>Ostava (daska za glačanje, glačalo, rešetka-sušilo za rublje)</li>
+                <li>Living room (LCD TV, cable, internet, Wi-Fi, stereo system, two-seater sofa bed)</li>
+                <li>Kitchen (built in cooker and oven, extractor hood, microwave oven, coffee machine, big refrigerator with freezer, dishwasher)</li>
+                <li>Bathroom with WC (shower cabin, washing machine, hair dryer)</li>
+                <li>Large terrace (35m2) with terrace furniture, sea view</li>
+                <li>Utility room (ironing board, iron, clothes drying rack)</li>
             </ul>
 
-            <p>Kat:</p>
+            <p>First floor:</p>
             <ul>
-                <li>Dvije spavaće sobe s po 2 kreveta (klimatizirane, , terasama s pogledom na more – 2,5m2 i 11m2)</li>
-                <li>Kupaonica s WC-om (tuš kabina, sušilo za kosu)</li>
+                <li>Two bedrooms – double and twin (air-conditioned, terraces overlooking the sea – 2.5m2 and 11m2)</li>
+                <li>Bathroom with WC (shower cabin, hair dryer)</li>
             </ul>
 
-            <p>Dvorište:</p>
+            <p>Courtyard:</p>
             <ul>
-                <li>Garažno parkirno mjesto</li>
-                <li>Roštilj za pripremu obroka </li>
-                <li>Spremnik za vodu</li>
+                <li>Garage parking</li>
+                <li>Barbecue grill</li>
+                <li>Water tank</li>
             </ul>
         </p>
     </div>

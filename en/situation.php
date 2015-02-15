@@ -6,10 +6,10 @@
 
 <div class="col-lg-12 situation_txt">
     
-    <h4>Pronađite nas!</h4>
+    <h4>Find us!</h4>
     
     <p>
-        Villa Sol se nalazi u samom centru Kanice, drugi red od morske obale. Udaljenost Kanice od jadranske magistrale je 6 km.
+        Villa Sol is in the very centre of Kanica, second row from the sea. Kanica is 6km away from the main road (Jadranska magistrala).
     </p>
     
 </div>
@@ -29,14 +29,14 @@
 <div class="col-lg-12 situation_after">
     
     <p>
-        Villa Sol je smještena u samom srcu Dalmacije u čijoj blizini se nalaze mnoga atraktivna turistička odredišta: <br>
-        <a href="http://www.tz-rogoznica.hr">Rogoznica</a> - 10km, 15 minuta vožnje <br>
-        <a href="http://www.tz-primosten.hr">Primošten</a> - 18km, 25 minuta vožnje <br>
-        <a href="http://tztrogir.hr">Trogir</a> - 25km, 30 minuta vožnje <br>
-        <a href="http://www.visitsplit.com">Split</a> - 53km, 60 minuta vožnje <br>
-        <a href="http://www.sibenik-tourism.hr/hr/grad-sibenik">Šibenik</a> - 44km, 55 minuta vožnje <br>
-        <a href="http://www.npkrka.hr">Nacionalni park Krka</a> - 55km, 65 minuta vožnje <br>
-        <a href="http://www.np-kornati.hr">Nacionalni park Kornati</a>- 18km, 25 minuta vožnje (Primošten) <br>
+        Villa Sol is in the heart of Dalmatia with many attractive tourist destinations nearby: <br>
+        <a href="http://www.tz-rogoznica.hr">Rogoznica</a> - 10km, 15 minute drive <br>
+        <a href="http://www.tz-primosten.hr">Primošten</a> - 18km, 25 minute drive <br>
+        <a href="http://tztrogir.hr">Trogir</a> - 25km, 30 minute drive <br>
+        <a href="http://www.visitsplit.com">Split</a> - 53km, 60 minute drive <br>
+        <a href="http://www.sibenik-tourism.hr/hr/grad-sibenik">Šibenik</a> - 44km, 55 minute drive <br>
+        <a href="http://www.npkrka.hr">National park Krka</a> - 55km, 65 minute drive <br>
+        <a href="http://www.np-kornati.hr">National park Kornati</a>- 18km, 25 minute drive (Primošten) <br>
     </p>
     
 </div>

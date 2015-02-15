@@ -82,6 +82,9 @@ body {
     text-decoration-line: none;
     box-decoration-break: none;
 }
+.fr.navbar-nav > li > a {
+    font-size: 1.4em;
+}
 .flags {
     margin-top: 2.2%;
     padding-left: 5%;
@@ -116,7 +119,7 @@ body {
     position: absolute;
     top:0;bottom:0;
     left:0;right:0; */
-}
+} 
 .main_img {
     background: url("../img/panoramic/index_sea_1920.jpg") center center fixed no-repeat;
     max-width: 100%;
@@ -128,6 +131,12 @@ body {
     text-shadow: 0px 0px 5px #000;
     background-position: top;
 }
+@media (min-width: 1921px) {
+    .main_img {
+        background: url("../img/panoramic/index_sea_3608.png") center center fixed no-repeat;
+        padding-bottom: 26%;
+    }
+}  
 .main_img p {
     font-size: 3.16em;
     color: white;
@@ -477,6 +486,9 @@ body {
     width: 180px;
     border-right: 1px solid black;
 }
+.fr.rtable th {
+    width: 200px;
+}
 .rtable td {
     height: 85px;
     text-align: center;
@@ -613,9 +625,11 @@ body {
     .flags {
         margin-top: 2.6%;
     }
-    
     .navbar-nav.navbar-right:last-child {
         margin-right: 0;
+    }
+    .fr.navbar-nav > li > a {
+        font-size: 1.3em;
     }
     .line {
         margin-right: 25%;
@@ -768,6 +782,9 @@ body {
     .navbar-nav > li > a {
         font-size: 2em;
         line-height: 50px;
+    }
+    .fr.navbar-nav > li > a {
+        font-size: 2em;
     }
     .navbar-toggle {
         margin-top: 10px;
