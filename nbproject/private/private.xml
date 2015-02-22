@@ -12,15 +12,8 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/inc/header.php</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/accomodation.php</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/inc/send_email.php</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/static/css/main.css</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/contact.php</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/index.php</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/reservation.php</file>
+            <file>file:/C:/xampp/htdocs/Villa-Sol/static/php/send_email.php</file>
             <file>file:/C:/xampp/htdocs/Villa-Sol/static/js/main.js</file>
-            <file>file:/C:/xampp/htdocs/Villa-Sol/hr/inc/footer.php</file>
         </group>
     </open-files>
 </project-private>

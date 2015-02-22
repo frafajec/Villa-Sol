@@ -175,6 +175,7 @@ body {
 .main_contact h4 {
     padding-top: 10px;
     padding-bottom: 20px;
+    padding-left: 3%;
     font-size: 1.3em;
 }
 .main_contact div {
@@ -447,6 +448,10 @@ body {
     font-size: 2em;
     font-weight: bold;
     color: black;
+}
+.reservation_calendar .col-lg-12 {
+    padding-left: 0;
+    padding-right: 0;
 }
 .reservation_gallery {
     margin-left: auto;

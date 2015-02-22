@@ -75,19 +75,18 @@ $(document).ready(function(){
               success: function (output) { 
                 if(output) {
                     var lang = $.cookie('villa-sol-language');
-                    if (lang == 'hr') alert("Email je uspješno poslan.");
-                    if (lang == 'en') alert("Email was successfully sent.");
-                    if (lang == 'de') alert("E-Mail wurde erfolgreich versendet.");
-                    if (lang == 'it') alert("Mail è stata inviata.");
-                    if (lang == 'fr') alert("Mail a été envoyé avec succès.");
-                    window.location.href = "contact.php";
+                    if (lang == 'hr') swal({title: "Uspješno",text: "Email je uspješno poslan!",type: "success",confirmButtonColor: "#428bca",confirmButtonText:"OK",closeOnConfirm: false },function(){  window.location.href = "contact.php"; });
+                    if (lang == 'en') swal({title: "Success",text: "Email was successfully sent!",type: "success",confirmButtonColor: "#428bca",confirmButtonText:"OK",closeOnConfirm: false },function(){  window.location.href = "contact.php"; });
+                    if (lang == 'de') swal({title: "Erfolgreich",text: "E-Mail wurde erfolgreich versendet!",type: "success",confirmButtonColor: "#428bca",confirmButtonText:"OK",closeOnConfirm: false },function(){  window.location.href = "contact.php"; });
+                    if (lang == 'it') swal({title: "Successo",text: "Mail è stata inviata!",type: "success",confirmButtonColor: "#428bca",confirmButtonText:"OK",closeOnConfirm: false },function(){  window.location.href = "contact.php"; });
+                    if (lang == 'fr') swal({title: "Succès",text: "EMail a été envoyé avec succès!",type: "success",confirmButtonColor: "#428bca",confirmButtonText:"OK",closeOnConfirm: false },function(){  window.location.href = "contact.php"; });
                 } else {
                     var lang = $.cookie('villa-sol-language');
-                    if (lang == 'hr') alert("Nešto je pošlo po zlu...\nEmail nije poslan.");
-                    if (lang == 'en') alert("Something went wrong...\nEmail was not sent.");
-                    if (lang == 'de') alert("Da lief was falsch ...\nEmail wurde nicht gesendet.");
-                    if (lang == 'it') alert("Qualcosa è andato storto ...\nEmail non è stato inviato.");
-                    if (lang == 'fr') alert("Quelque chose se est mal passé ...\nEmail n'a pas été envoyé");
+                    if (lang == 'hr') swal({title: "Greška",text: "Nešto je pošlo po zlu... Email nije poslan.\n\nUkoliko se greška ponovi molimo Vas pošaljite upit na email: villa.sol.adriatic@gmail.com",type:"error",confirmButtonColor:"#428bca",confirmButtonText:"OK"});
+                    if (lang == 'en') swal({title: "Error",text: "Something went wrong ... Email was not sent. If the error persists, please send us your inquiry to: villa.sol.adriatic@gmail.com",type:"error",confirmButtonColor:"#428bca",confirmButtonText:"OK"});
+                    if (lang == 'de') swal({title: "Fehler",text: "Da lief was falsch ... E-Mail wurde nicht gesendet. Besteht der Fehler weiterhin, senden Sie uns bitte Ihre Anfrage an: villa.sol.adriatic@gmail.com",type:"error",confirmButtonColor:"#428bca",confirmButtonText:"OK"});
+                    if (lang == 'it') swal({title: "Errore",text: "Qualcosa è andato storto ... Email non è stato inviato. Se l'errore persiste, si prega di inviare la vostra richiesta a: villa.sol.adriatic@gmail.com",type:"error",confirmButtonColor:"#428bca",confirmButtonText:"OK"});
+                    if (lang == 'fr') swal({title: "Erreur",text: "Quelque chose se est mal passé ... Email n'a pas été envoyé. Si l'erreur persiste, se il vous plaît envoyez-nous votre demande à: villa.sol.adriatic@gmail.com",type:"error",confirmButtonColor:"#428bca",confirmButtonText:"OK"});
                 }
             }
             });

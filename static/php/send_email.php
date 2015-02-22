@@ -12,23 +12,24 @@
 
         //if needed do server side validation
         
-        $message = "<!DOCTYPE html><body><style>table tr td:first-child {font-weight: bold;padding-right: 12px;}</style>";
+        $message = "<!DOCTYPE html><body>";
         $message .= "<table>";
-        $message .=   "<tr><td>Ime:</td><td>".$fname."</td></tr>";
-        $message .=   "<tr><td>Prezime:</td><td>".$lname."</td></tr>";
-        $message .=   "<tr><td>Email:</td><td>".$email."</td></tr>";
-        $message .=   "<tr><td>Naslov:</td><td>".$subject."</td></tr>";
-        $message .=   "<tr><td>Sadržaj:</td><td></td></tr>";
+        $message .=   "<tr><td style='font-weight: bold;padding-right: 12px;'>Ime:</td><td>".$fname."</td></tr>";
+        $message .=   "<tr><td style='font-weight: bold;padding-right: 12px;'>Prezime:</td><td>".$lname."</td></tr>";
+        $message .=   "<tr><td style='font-weight: bold;padding-right: 12px;'>Email:</td><td>".$email."</td></tr>";
+        $message .=   "<tr><td style='font-weight: bold;padding-right: 12px;'>Naslov:</td><td>".$subject."</td></tr>";
+        $message .=   "<tr><td style='font-weight: bold;padding-right: 12px;'>Sadržaj:</td><td></td></tr>";
         $message .= "</table>";
-        $message .= "<pre> ".$msg." </pre></body></html>";
+        $message .= "<pre style='font-size: 1.3em;; padding-left: 10px;'>".$msg."</pre></body></html>";
         
         $headers = "From: ".$email."\r\n"; 
         $headers.= "MIME-Version: 1.0\r\n"; 
-        $headers.= "Content-Type: text/plain; charset=utf-8\r\n";
+        $headers.= "Content-Type: text/html; charset=utf-8\r\n";
 
-        $to = 'filip.rafajec@gmail.com';
+        $to = 'villa.sol.adriatic@gmail.com';
+        $prefix_subj = 'VS - ' . $subject;
         
-        if(@mail($to, $subject, $message, $headers)){
+        if(@mail($to, $prefix_subj, $message, $headers)){
             echo true;
         } else {
             echo false;

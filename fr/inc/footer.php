@@ -45,5 +45,6 @@
     <script src="../static/js/jquery.cookie.js"></script>
     <!--<script src="../static/js/jquery-ui-min.js"></script>-->
     <script src="../static/js/bootstrap.min.js"></script>
-    <script src="../static/js/jssor.slider.mini.js"></script>
+    <script src="../static/js/jssor.slider.mini.js"></script>    
+    <script src="../static/js/sweet-alert.min.js"></script>
     <script src="../static/js/main.js"></script>
