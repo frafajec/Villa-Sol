@@ -1,5 +1,8 @@
 Villa Sol
-villa-sol.hr, villa-sol.eu
+=====
+
+<a href="villa-sol.hr">villa-sol.hr</a>, <a href="villa-sol.eu">villa-sol.eu</a>
+
 =====
 Web page for apartment renting at Adriatic sea
 
@@ -8,6 +11,7 @@ Web page whos main purpose is to give overview for those interested in spending 
 Page aims at 5 big groups: Croatian, English, German, Italian and French. With that said, paige has multilingual support for these languages.
 Goal of web page is to convert potential tourist into customers who will enjoy vacaning in Villa Sol.
 
+=====
 
 Technologies: HTML5, CSS3, javaScript (jQuery), PHP 5.4
 
