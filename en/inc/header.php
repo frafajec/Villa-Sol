@@ -42,7 +42,7 @@
                     <li><a href="accomodation.php">ACCOMODATION</a></li>
                     <li><a href="situation.php">LOCATION</a></li>
                     <li><a href="reservation.php">RESERVATION</a></li>
-                    <li><a href="contact.php">CONTACT US</a></li>
+                    <li><a href="contact.php">CONTACT</a></li>
                     
                   </ul>
                   

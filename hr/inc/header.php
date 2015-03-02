@@ -42,7 +42,7 @@
                     <li><a href="accomodation.php">SMJEŠTAJ</a></li>
                     <li><a href="situation.php">LOKACIJA</a></li>
                     <li><a href="reservation.php">REZERVACIJA</a></li>
-                    <li><a href="contact.php">KONTAKTIRAJTE NAS</a></li>
+                    <li><a href="contact.php">KONTAKT</a></li>
                     
                   </ul>
                   
