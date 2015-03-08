@@ -1,4 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
+    <title>ACCOMODAZIONE</title>
     
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->

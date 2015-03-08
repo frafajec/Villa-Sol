@@ -8,15 +8,21 @@
     <meta name="author" content="siginum.com">
     <meta lang="it">
 
-    <title>Villa Sol</title>
-
     <!-- Bootstrap core CSS -->
     <link href="../static/css/bootstrap-min.css" rel="stylesheet">
     <!--<link href="../static/css/bootstrap-theme-min.css" rel="stylesheet">-->    
     <link href="../static/css/sweet-alert.css" rel="stylesheet">
-    <link href="../static/css/main.css" rel="stylesheet">
+    <link href="../static/css/main-min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="../static/img/fav.ico"/>
-
+    <!-- analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-60373550-1', 'auto');
+    ga('send', 'pageview');
+    </script>
 </head>
 
 <body>

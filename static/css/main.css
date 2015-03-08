@@ -50,7 +50,6 @@ body {
     margin-top: 4%;
 }
 .signature {
-    //margin-top: 4%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -473,7 +472,6 @@ body {
     font-size: 3em;
     font-style: italic;
     font-weight: bold;
-    //text-align: center;
 }
 .rtable {
     text-align: center;
@@ -686,7 +684,6 @@ body {
     .signature {
         float: left;
         margin-left: 33%;
-        //margin-top: 4%;
     }
 }
 

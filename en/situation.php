@@ -1,4 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
+<title>LOCATION</title>
 
 <div class="col-lg-12 situation_panorama">
 </div>

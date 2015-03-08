@@ -47,4 +47,4 @@
     <script src="../static/js/bootstrap.min.js"></script>
     <script src="../static/js/jssor.slider.mini.js"></script>    
     <script src="../static/js/sweet-alert.min.js"></script>
-    <script src="../static/js/main.js"></script>
+    <script src="../static/js/main.min.js"></script>

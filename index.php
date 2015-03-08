@@ -6,3 +6,8 @@
      if ($.cookie('villa-sol-language')) {window.location.replace($.cookie("villa-sol-language"));}
     });
 </script>
+<a href="/hr/index.php" />
+<a href="/en/index.php" />
+<a href="/de/index.php" />
+<a href="/it/index.php" />
+<a href="/fr/index.php" />

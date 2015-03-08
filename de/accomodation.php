@@ -1,5 +1,7 @@
 <?php require_once 'inc/header.php'; ?>
     
+    <title>UNTERKUNFT</title>
+
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->
     <div id="accomodation_slider" class="accomodation_gallery" style="position: relative; top: 0px; left: 0px; width: 1400px;
