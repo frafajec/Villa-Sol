@@ -14,14 +14,16 @@ $(document).ready(function(){
                
     });
     $('a').click(function (e) { //on link click fadeout
-        e.preventDefault();
-        var goTo = this.getAttribute("href");
-        $(".all").fadeOut();
-        $(".all").fadeOut("slow");
-        $(".all").fadeOut(500); 
-        setTimeout(function(){
-            window.location = goTo;
-        },400);       
+        if(e.button != 1) {
+            e.preventDefault();
+            var goTo = this.getAttribute("href");
+            $(".all").fadeOut();
+            $(".all").fadeOut("slow");
+            $(".all").fadeOut(500); 
+            setTimeout(function(){
+                window.location = goTo;
+            },400); 
+        }
     });
     
     /* contact form validation */
