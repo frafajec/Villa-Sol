@@ -14,7 +14,8 @@ $(document).ready(function(){
                
     });
     $('a').click(function (e) { //on link click fadeout
-        if(e.button != 1) {
+        var attr = $(this).attr("target");
+        if(attr !== "_blank" && e.button !== 1) {
             e.preventDefault();
             var goTo = this.getAttribute("href");
             $(".all").fadeOut();
@@ -22,7 +23,7 @@ $(document).ready(function(){
             $(".all").fadeOut(500); 
             setTimeout(function(){
                 window.location = goTo;
-            },400); 
+            },400);
         }
     });
     

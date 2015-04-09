@@ -34,7 +34,7 @@
             </div>
             <br/>
             <br/>
-            <div class="col-lg-12 signature">Alle Rechte vorbehalten. Entwickelt von <span class="glyphicon glyphicon-copyright-mark"></span><a href="http://www.siginum.com/" target="_blank">Siginum</a></div>
+            <div class="col-lg-12 signature">Alle Rechte vorbehalten. Entwickelt von <span class="glyphicon glyphicon-copyright-mark"></span><a href="https://www.linkedin.com/in/frafajec" target="_blank">Filip Rafajec</a></div>
         </div>
     </div>
 </footer>
