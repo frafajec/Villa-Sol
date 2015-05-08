@@ -20,8 +20,8 @@
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1400px; height: 692px; overflow: hidden;">
             <div>
-                <img u="image" src="../static/img/gallery/izvana2.jpg" />
-                <img u="thumb" src="../static/img/gallery/izvana2_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/1.jpg" />
+                <img u="thumb" src="../static/img/gallery/1p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Wohnung von der Außenterrasse mit Blick auf das Meer.
@@ -36,8 +36,8 @@
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/cesta.jpg" />
-                <img u="thumb" src="../static/img/gallery/cesta_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/2.jpg" />
+                <img u="thumb" src="../static/img/gallery/2p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Die Straße neben dem Haus mit Platz für Parkplätze.
@@ -52,43 +52,72 @@
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/donji_kat.jpg" />
-                <img u="thumb" src="../static/img/gallery/donji_kat_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/3.jpg" />
+                <img u="thumb" src="../static/img/gallery/3p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Erdgeschoss. Küche mit Esszimmer.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Erdgeschoss. Küche mit Esszimmer.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Erdgeschoss. Küche mit Esszimmer.
+                    
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/kuhinja.jpg" />
-                <img u="thumb" src="../static/img/gallery/kuhinja_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/4.jpg" />
+                <img u="thumb" src="../static/img/gallery/4p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
-                top: 620px; left: 200px; width: 1000px; height: 70px;">
-                    Die Küche besteht aus einem großen Kühl- und Gefrierschrank, eingebautem Kochfeld und Backofen, Mikrowelle, Geschirrspüler, Kaffeemaschine 
-                    und anderen notwendigen Küchenutensilien.
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
-                top: 600px; left: 200px; width: 1000px; height: 85px;">
-                    Die Küche besteht aus einem großen Kühl- und Gefrierschrank, eingebautem Kochfeld und Backofen, Mikrowelle, Geschirrspüler, Kaffeemaschine 
-                    und anderen notwendigen Küchenutensilien.
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
-                top: 555px; left: 200px; width: 1000px; height: 135px;">
-                    Die Küche besteht aus einem großen Kühl- und Gefrierschrank, eingebautem Kochfeld und Backofen, Mikrowelle, Geschirrspüler, Kaffeemaschine 
-                    und anderen notwendigen Küchenutensilien.
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/kauc.jpg" />
-                <img u="thumb" src="../static/img/gallery/kauc_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/5.jpg" />
+                <img u="thumb" src="../static/img/gallery/5p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/6.jpg" />
+                <img u="thumb" src="../static/img/gallery/6p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/7.jpg" />
+                <img u="thumb" src="../static/img/gallery/7p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Erdgeschoss. Wohnzimmer. Bettsofa.
@@ -103,40 +132,56 @@
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/kupaona2.jpg" />
-                <img u="thumb" src="../static/img/gallery/kupaona2_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/8.jpg" />
+                <img u="thumb" src="../static/img/gallery/8p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Erdgeschoss. Badezimmer. Bestehend aus Duschkabine, Waschbecken und Toilette.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Erdgeschoss. Badezimmer. Bestehend aus Duschkabine, Waschbecken und Toilette.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Erdgeschoss. Badezimmer. Bestehend aus Duschkabine, Waschbecken und Toilette.
+                    
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/terasa.jpg" />
-                <img u="thumb" src="../static/img/gallery/terasa_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/9.jpg" />
+                <img u="thumb" src="../static/img/gallery/9p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Der Ausblick von der unteren Terasse mit Sitzmöbeln.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Der Ausblick von der unteren Terasse mit Sitzmöbeln.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Der Ausblick von der unteren Terasse mit Sitzmöbeln.
+                    
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/spavaca1.jpg" />
-                <img u="thumb" src="../static/img/gallery/spavaca1_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/10.jpg" />
+                <img u="thumb" src="../static/img/gallery/10p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/11.jpg" />
+                <img u="thumb" src="../static/img/gallery/11p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Erste Etage, klimatisiertes Schlafzimmer mit Doppelbett und Zugang zu einer kleinen Terrasse.
@@ -151,8 +196,8 @@
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/spavaca2.jpg" />
-                <img u="thumb" src="../static/img/gallery/spavaca2_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/12.jpg" />
+                <img u="thumb" src="../static/img/gallery/12p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Erste Etage, klimatisiertes Schlafzimmer mit zwei Einzelbetten und Zugang zu einer kleinen Terrasse.
@@ -167,25 +212,167 @@
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/kupaona1.jpg" />
-                <img u="thumb" src="../static/img/gallery/kupaona1_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/13.jpg" />
+                <img u="thumb" src="../static/img/gallery/13p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Erste Etage, Badezimmer. Bestehend aus Duschkabine, Waschbecken und Toilette.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Erste Etage, Badezimmer. Bestehend aus Duschkabine, Waschbecken und Toilette.
+                    
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Erste Etage, Badezimmer. Bestehend aus Duschkabine, Waschbecken und Toilette.
+                    
                 </div>
             </div>
-            
             <div>
-                <img u="image" src="../static/img/gallery/plaza.jpg" />
-                <img u="thumb" src="../static/img/gallery/plaza_thumb.jpg" />
+                <img u="image" src="../static/img/gallery/14.jpg" />
+                <img u="thumb" src="../static/img/gallery/14p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/15.jpg" />
+                <img u="thumb" src="../static/img/gallery/15p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div><div>
+                <img u="image" src="../static/img/gallery/16p.jpg" />
+                <img u="thumb" src="../static/img/gallery/.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/17.jpg" />
+                <img u="thumb" src="../static/img/gallery/17p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/18.jpg" />
+                <img u="thumb" src="../static/img/gallery/18p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/19.jpg" />
+                <img u="thumb" src="../static/img/gallery/19p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/20.jpg" />
+                <img u="thumb" src="../static/img/gallery/20p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/21.jpg" />
+                <img u="thumb" src="../static/img/gallery/21p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/22.jpg" />
+                <img u="thumb" src="../static/img/gallery/22p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/23.jpg" />
+                <img u="thumb" src="../static/img/gallery/23p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Strand zum Sonnenbaden und Schwimmen unterhalb des Hauses 70 m entfernt.
@@ -197,6 +384,38 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Strand zum Sonnenbaden und Schwimmen unterhalb des Hauses 70 m entfernt. 
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/24.jpg" />
+                <img u="thumb" src="../static/img/gallery/24p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/25.jpg" />
+                <img u="thumb" src="../static/img/gallery/25p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    
                 </div>
             </div>
 <!--            <div>

@@ -166,7 +166,7 @@ $(document).ready(function ($) {
 
         var options = {
             $AutoPlay: true,
-            $AutoPlayInterval: 5000,
+            $AutoPlayInterval: 8000,
             $PauseOnHover: 1,
 
             $DragOrientation: 3,

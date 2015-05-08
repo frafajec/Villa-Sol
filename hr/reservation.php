@@ -37,9 +37,9 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>150€</td>
-                        <td>250€</td>
-                        <td>250€</td>
+                        <td>180€</td>
+                        <td>220€</td>
+                        <td>220€</td>
                         <td>180€</td>
                     </tr>
                 </tbody>
