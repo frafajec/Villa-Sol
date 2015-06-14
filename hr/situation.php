@@ -21,7 +21,7 @@
     <div class="col-lg-12"> 
         
         <!-- google map -->
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11435.320953352442!2d16.0012247!3d43.4950409!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDI5JzUwLjkiTiAxNsKwMDAnMDAuNyJF!5e1!3m2!1sen!2shr!4v1414953108228" width="600" height="450" frameborder="0" style="border:0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22499.250565728966!2d16.005820186156548!3d43.49405940164821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1335173391921e63%3A0x333a166e4bdb91a6!2sVilla+Sol!5e1!3m2!1shr!2shr!4v1434305442080" width="600" height="450" frameborder="0" style="border:0"></iframe>
     </div>   
 </div>
 
