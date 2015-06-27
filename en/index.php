@@ -6,7 +6,7 @@
 
         <h4>WELCOME TO VILLA SOL</h4><br>
         <p>A place for your perfect holiday.<br>
-            Last minute July offer! <a href="reservation.php">20% discount</a><br><br><br><br> </p>
+          <br><br><br><a href="reservation.php"> Last minute July offer! 20% discount</a><br> </p>
     
 </div>
     

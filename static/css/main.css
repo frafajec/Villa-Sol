@@ -143,6 +143,11 @@ body {
     text-align: center;
     text-height: max-size;
 }
+
+.main_img a {
+    color: #85FF5C;
+}
+
 .main_img h4 {
     font-size: 5.16em;
     color: white;
@@ -404,8 +409,9 @@ body {
 /* ------------ */
 .discount {
     text-align: center;
-    color: green;
-    font-size: 1.2em;
+    color: #33CC33;
+    font-size: 2em;
+    font-style: italic;
     margin-top: 30px;
 }
 .reservation_panorama {

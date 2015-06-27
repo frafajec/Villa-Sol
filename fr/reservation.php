@@ -44,6 +44,7 @@
                     </tr>
                 </tbody>
             </table>
+            <p class="discount">Dernière minute offre Juillet!<br> Du 1.er au 18. ème Juillet seulement € 175 par jour!</p>
         </div>
     </div>   
 </div>

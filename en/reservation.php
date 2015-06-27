@@ -36,14 +36,14 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>180€</td>
-                        <td>220€</td>
-                        <td>220€</td>
-                        <td>180€</td>
+                        <td>€180</td>
+                        <td>€220</td>
+                        <td>€220</td>
+                        <td>€180</td>
                     </tr>
                 </tbody>
             </table>
-            <p class="discount">Text of green colour</p>
+            <p class="discount">Last minute July offer! <br> From 1st to 18th July only €175 per day!</p>
         </div>
     </div>   
 </div>

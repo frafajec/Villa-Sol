@@ -36,13 +36,14 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>180€</td>
-                        <td>220€</td>
-                        <td>220€</td>
-                        <td>180€</td>
+                        <td>180 €</td>
+                        <td>220 €</td>
+                        <td>220 €</td>
+                        <td>180 €</td>
                     </tr>
                 </tbody>
             </table>
+            <p class="discount">Letzten Minute Juli Angebot! <br> Von Juli 01 bis 18 nur 175 € pro Tag!</p>
         </div>
     </div>   
 </div>

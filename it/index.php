@@ -5,7 +5,8 @@
     
 
         <h4>BENVENUTI A VILLA SOL</h4><br>
-        <p>Il posto per le vacanze perfette.<br><br><br><br><br> </p>
+        <p>Il posto per le vacanze perfette.<br>
+          <br><br><br><a href="reservation.php"> Offerta last minute luglio! 20% di sconto</a><br> </p>
     
 </div>
     

@@ -43,6 +43,7 @@
                     </tr>
                 </tbody>
             </table>
+            <p class="discount">Offerta last minute luglio! <br> Dal 01-18 luglio solo 175 € al giorno!</p>
         </div>
     </div>   
 </div>
