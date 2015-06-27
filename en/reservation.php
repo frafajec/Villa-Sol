@@ -43,6 +43,7 @@
                     </tr>
                 </tbody>
             </table>
+            <p class="discount">Text of green colour</p>
         </div>
     </div>   
 </div>

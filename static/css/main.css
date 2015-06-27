@@ -402,6 +402,12 @@ body {
 /* ------------ */
 /* reservation page */
 /* ------------ */
+.discount {
+    text-align: center;
+    color: green;
+    font-size: 1.2em;
+    margin-top: 30px;
+}
 .reservation_panorama {
     background: url("../img//panoramic/panorama3_2016.jpg") no-repeat;
     max-width: 100%;
