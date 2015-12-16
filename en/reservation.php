@@ -43,7 +43,7 @@
                     </tr>
                 </tbody>
             </table>
-            <p class="discount">Last minute July offer! <br> From 1st to 18th July only €175 per day!</p>
+            <!-- <p class="discount">Last minute July offer! <br> From 1st to 18th July only €175 per day!</p> -->
         </div>
     </div>   
 </div>

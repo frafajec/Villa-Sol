@@ -55,15 +55,15 @@
                 <img u="thumb" src="../static/img/gallery/3p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Rez de chaussée. Salle de séjour.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Rez de chaussée. Salle de séjour.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Rez de chaussée. Salle de séjour.
                 </div>
             </div>
             <div>
@@ -71,15 +71,15 @@
                 <img u="thumb" src="../static/img/gallery/4p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Rez de chaussée. Salle de séjour.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Rez de chaussée. Salle de séjour.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Rez de chaussée. Salle de séjour.
                 </div>
             </div>
             <div>
@@ -87,31 +87,31 @@
                 <img u="thumb" src="../static/img/gallery/5p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Rez de chaussée. Table à manger.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Rez de chaussée. Table à manger.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Rez de chaussée. Table à manger.
                 </div>
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/6.jpg" />
                 <img u="thumb" src="../static/img/gallery/6p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
-                top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                top: 620px; left: 200px; width: 1000px; height: 65px;">
+                    La cuisine se compose d'un grand réfrigérateur/congélateur, plaques de cuisson et four, micro-ondes, lave-vaisselle, machines à café.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
-                top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                top: 600px; left: 200px; width: 1000px; height: 85px;">
+                    La cuisine se compose d'un grand réfrigérateur/congélateur, plaques de cuisson et four, micro-ondes, lave-vaisselle, machines à café.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
-                top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                top: 585px; left: 200px; width: 1000px; height: 105px;">
+                    La cuisine se compose d'un grand réfrigérateur/congélateur, plaques de cuisson et four, micro-ondes, lave-vaisselle, machines à café.
                 </div>
             </div>
             <div>
@@ -135,15 +135,15 @@
                 <img u="thumb" src="../static/img/gallery/8p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    TV en face de canapé.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    TV en face de canapé.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    TV en face de canapé.
                 </div>
             </div>
             <div>
@@ -151,39 +151,23 @@
                 <img u="thumb" src="../static/img/gallery/9p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Étage, salle de bain.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Étage, salle de bain.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Étage, salle de bain.
                 </div>
-            </div>
-            <div>
-                <img u="image" src="../static/img/gallery/10.jpg" />
-                <img u="thumb" src="../static/img/gallery/10p.jpg" />
-                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
-                top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
-                </div>
-                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
-                top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
-                </div>
-                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
-                top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
-                </div>
-            </div>
+            </div>       
             <div>
                 <img u="image" src="../static/img/gallery/11.jpg" />
                 <img u="thumb" src="../static/img/gallery/11p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Étage, chambre climatisée avec un lit double et accès à la terrasse. 
+                    Étage, chambre climatisée avec un lit double et accès à la terrasse.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 100px; width: 1200px; height: 65px;">
@@ -215,15 +199,15 @@
                 <img u="thumb" src="../static/img/gallery/13p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Étage, couloir.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Étage, couloir.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Étage, couloir.
                 </div>
             </div>
             <div>
@@ -231,15 +215,15 @@
                 <img u="thumb" src="../static/img/gallery/14p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Étage, salle de bain.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Étage, salle de bain.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Étage, salle de bain.
                 </div>
             </div>
             <div>
@@ -247,15 +231,15 @@
                 <img u="thumb" src="../static/img/gallery/15p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Terrasse supérieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Terrasse supérieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Terrasse supérieure.
                 </div>
             </div>
             <div>
@@ -263,15 +247,15 @@
                 <img u="thumb" src="../static/img/gallery/16p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Terrasse inférieure avec mobilier de terrasse.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Terrasse inférieure avec mobilier de terrasse.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Terrasse inférieure avec mobilier de terrasse.
                 </div>
             </div>
             <div>
@@ -279,15 +263,15 @@
                 <img u="thumb" src="../static/img/gallery/17p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Vue de la terrasse inférieure avec mobilier de terrasse.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Vue de la terrasse inférieure avec mobilier de terrasse.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Vue de la terrasse inférieure avec mobilier de terrasse.
                 </div>
             </div>
             <div>
@@ -295,15 +279,15 @@
                 <img u="thumb" src="../static/img/gallery/18p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Vue de la terrasse inférieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Vue de la terrasse inférieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Vue de la terrasse inférieure.
                 </div>
             </div>
             <div>
@@ -311,15 +295,15 @@
                 <img u="thumb" src="../static/img/gallery/19p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Terrasse inférieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Terrasse inférieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Terrasse inférieure.
                 </div>
             </div>
             <div>
@@ -327,15 +311,15 @@
                 <img u="thumb" src="../static/img/gallery/20p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Terrasse inférieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Terrasse inférieure.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Terrasse inférieure.
                 </div>
             </div>
             <div>
@@ -343,15 +327,15 @@
                 <img u="thumb" src="../static/img/gallery/21p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Jardin avec barbecue.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Jardin avec barbecue.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Jardin avec barbecue.
                 </div>
             </div>
             <div>
@@ -359,15 +343,15 @@
                 <img u="thumb" src="../static/img/gallery/22p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Jardin.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Jardin.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Jardin.
                 </div>
             </div>
             <div>
@@ -375,15 +359,79 @@
                 <img u="thumb" src="../static/img/gallery/23p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Plage pour bronzer et se baigner sous la maison à 70 mètres. 
+                    Barbecue.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Plage pour bronzer et se baigner sous la maison à 70 mètres. 
+                    Barbecue.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Barbecue.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/24.jpg" />
+                <img u="thumb" src="../static/img/gallery/24p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Jardin de nuit.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Jardin de nuit.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Jardin de nuit.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/25.jpg" />
+                <img u="thumb" src="../static/img/gallery/25p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Plage pour bronzer et se baigner sous la maison à 70 mètres.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Plage pour bronzer et se baigner sous la maison à 70 mètres.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Plage pour bronzer et se baigner sous la maison à 70 mètres.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/26.jpg" />
+                <img u="thumb" src="../static/img/gallery/26p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Plage Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Plage Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Plage Kanica.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/27.jpg" />
+                <img u="thumb" src="../static/img/gallery/27p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Village Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Village Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Village Kanica.
                 </div>
             </div>
 <!--            <div>

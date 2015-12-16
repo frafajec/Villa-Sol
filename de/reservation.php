@@ -43,7 +43,7 @@
                     </tr>
                 </tbody>
             </table>
-            <p class="discount">Letzten Minute Juli Angebot! <br> Von Juli 01 bis 18 nur 175 € pro Tag!</p>
+            <!-- <p class="discount">Letzten Minute Juli Angebot! <br> Von Juli 01 bis 18 nur 175 € pro Tag!</p> -->
         </div>
     </div>   
 </div>

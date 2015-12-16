@@ -6,7 +6,9 @@
 
         <h4>DOBRODOŠLI U VILLU SOL</h4><br>
         <p>Mjesto za vaš idealan odmor.<br>
-          <br><br><br><a href="reservation.php"> Last minute ponuda za srpanj! 20% popusta</a><br> </p>
+          <br><br><br>
+          <!-- <a href="reservation.php"> Last minute ponuda za srpanj! 20% popusta</a> -->
+          <br> </p>
     
 </div>
     

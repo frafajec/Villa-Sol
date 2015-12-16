@@ -44,7 +44,7 @@
                     </tr>
                 </tbody>
             </table>
-            <p class="discount">Last minute ponuda za srpanj! <br> Od 1. do 18. srpnja samo 175€ po danu!</p>
+            <!-- <p class="discount">Last minute ponuda za srpanj! <br> Od 1. do 18. srpnja samo 175€ po danu!</p> -->
         </div>
     </div>   
 </div>

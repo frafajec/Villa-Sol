@@ -12,7 +12,7 @@
     <link href="../static/css/bootstrap-min.css" rel="stylesheet">
     <!--<link href="../static/css/bootstrap-theme-min.css" rel="stylesheet">-->    
     <link href="../static/css/sweet-alert.css" rel="stylesheet">
-    <link href="../static/css/main.css" rel="stylesheet">
+    <link href="../static/css/main-min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="../static/img/fav.ico"/>
     <!-- analytics -->
     <script>

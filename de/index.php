@@ -2,11 +2,12 @@
 <title>VILLA SOL</title>
 
 <div class="main_img">
-    
 
         <h4>WILLKOMMEN IN DER VILLA SOL</h4><br>
         <p>Ein Ort  für Ihren idealen Urlaub.<br>
-          <br><br><br><a href="reservation.php"> Letzten Minute Juli Angebot! 20% Rabatt</a><br> </p>
+          <br><br><br>
+          <!-- <a href="reservation.php"> Letzten Minute Juli Angebot! 20% Rabatt</a> -->
+          <br> </p>
     
 </div>
     

@@ -55,15 +55,15 @@
                 <img u="thumb" src="../static/img/gallery/3p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Ground floor. Living room.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Ground floor. Living room.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Ground floor. Living room.
                 </div>
             </div>
             <div>
@@ -71,15 +71,15 @@
                 <img u="thumb" src="../static/img/gallery/4p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Ground floor. Living room.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Ground floor. Living room.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Ground floor. Living room.
                 </div>
             </div>
             <div>
@@ -87,31 +87,31 @@
                 <img u="thumb" src="../static/img/gallery/5p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Ground floor. Dining table.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Ground floor. Dining table.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Ground floor. Dining table.
                 </div>
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/6.jpg" />
                 <img u="thumb" src="../static/img/gallery/6p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
-                top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                top: 620px; left: 200px; width: 1000px; height: 65px;">
+                    Kitchen. Refrigerator with freezer, built in cooker and oven, microwave oven, dishwasher and coffee machine.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
-                top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                top: 600px; left: 200px; width: 1000px; height: 85px;">
+                    Kitchen. Refrigerator with freezer, built in cooker and oven, microwave oven, dishwasher and coffee machine.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
-                top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                top: 585px; left: 200px; width: 1000px; height: 105px;">
+                    Kitchen. Refrigerator with freezer, built in cooker and oven, microwave oven, dishwasher and coffee machine.
                 </div>
             </div>
             <div>
@@ -130,6 +130,38 @@
                     Ground floor. Living room. Sofa bed.
                 </div>
             </div>
+            <div>
+                <img u="image" src="../static/img/gallery/8.jpg" />
+                <img u="thumb" src="../static/img/gallery/8p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    TV in front of sofa.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    TV in front of sofa.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    TV in front of sofa.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/9.jpg" />
+                <img u="thumb" src="../static/img/gallery/9p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Ground floor. Bathroom.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Ground floor. Bathroom.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Ground floor. Bathroom.
+                </div>
+            </div>       
             <div>
                 <img u="image" src="../static/img/gallery/11.jpg" />
                 <img u="thumb" src="../static/img/gallery/11p.jpg" />
@@ -167,15 +199,15 @@
                 <img u="thumb" src="../static/img/gallery/13p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    First floor, hallway.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    First floor, hallway.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    First floor, hallway.
                 </div>
             </div>
             <div>
@@ -183,15 +215,15 @@
                 <img u="thumb" src="../static/img/gallery/14p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    First floor. Bathroom.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    First floor. Bathroom.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    First floor. Bathroom.
                 </div>
             </div>
             <div>
@@ -199,15 +231,15 @@
                 <img u="thumb" src="../static/img/gallery/15p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Upper terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Upper terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Upper terrace.
                 </div>
             </div>
             <div>
@@ -215,15 +247,15 @@
                 <img u="thumb" src="../static/img/gallery/16p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Lower terrace with terrace furniture.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Lower terrace with terrace furniture.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Lower terrace with terrace furniture.
                 </div>
             </div>
             <div>
@@ -231,15 +263,15 @@
                 <img u="thumb" src="../static/img/gallery/17p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    View from the lower terrace with terrace furniture.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    View from the lower terrace with terrace furniture.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    View from the lower terrace with terrace furniture.
                 </div>
             </div>
             <div>
@@ -247,15 +279,15 @@
                 <img u="thumb" src="../static/img/gallery/18p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    View from the lower terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    View from the lower terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    View from the lower terrace.
                 </div>
             </div>
             <div>
@@ -263,15 +295,15 @@
                 <img u="thumb" src="../static/img/gallery/19p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Lower terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Lower terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Lower terrace.
                 </div>
             </div>
             <div>
@@ -279,15 +311,15 @@
                 <img u="thumb" src="../static/img/gallery/20p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Lower terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Lower terrace.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Lower terrace.
                 </div>
             </div>
             <div>
@@ -295,15 +327,15 @@
                 <img u="thumb" src="../static/img/gallery/21p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Yard with barbecue grill.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Yard with barbecue grill.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Yard with barbecue grill.
                 </div>
             </div>
             <div>
@@ -311,15 +343,15 @@
                 <img u="thumb" src="../static/img/gallery/22p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Yard.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Yard.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Yard.
                 </div>
             </div>
             <div>
@@ -327,15 +359,15 @@
                 <img u="thumb" src="../static/img/gallery/23p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
+                    Barbecue grill.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
+                    Barbecue grill.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    Well maintained beach for sunbathing and swimming, 70 meters from the house. 
+                    Barbecue grill.
                 </div>
             </div>
             <div>
@@ -343,15 +375,15 @@
                 <img u="thumb" src="../static/img/gallery/24p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Yard at night.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Yard at night.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Yard at night.
                 </div>
             </div>
             <div>
@@ -359,15 +391,47 @@
                 <img u="thumb" src="../static/img/gallery/25p.jpg" />
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
-                    
+                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
                 top: 625px; left: 200px; width: 1000px; height: 65px;">
-                    
+                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
                 </div>
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
-                    
+                    Well maintained beach for sunbathing and swimming, 70 meters from the house.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/26.jpg" />
+                <img u="thumb" src="../static/img/gallery/26p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Beach in Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Beach in Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Beach in Kanica.
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/27.jpg" />
+                <img u="thumb" src="../static/img/gallery/27p.jpg" />
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Village Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Village Kanica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Village Kanica.
                 </div>
             </div>
 <!--            <div>
