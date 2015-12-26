@@ -29,18 +29,20 @@
             <table class="rtable fr">
                 <thead>
                     <tr>
+                        <th>1.er May - <br>31. ème May</th>
                         <th>1.er Juin - <br>30. ème Juin</th>
-                        <th>1.er Juillet - <br>31. ème Juillet</th>
-                        <th>1.er Août - <br>31. ème Août</th>
+                        <th>1.er Juillet - <br>31. ème Août</th>
                         <th>1.er Septembre - <br>30. ème Septembre</th>
+                        <th>1.er Octobre - <br>31. ème Octobre </th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>180€</td>
-                        <td>220€</td>
-                        <td>220€</td>
-                        <td>180€</td>
+                        <td>€159</td>
+                        <td>€179</td>
+                        <td>€219</td>
+                        <td>€179</td>
+                        <td>€159</td>
                     </tr>
                 </tbody>
             </table>
@@ -61,31 +63,45 @@
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 800px; height: 400px;
             overflow: hidden;">
             <div>
-                <img u="image" src="../static/img/calendar/lipanj.png" />
+                <img u="image" src="../static/img/calendar/may.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    MAY
+                </div>
+            </div> 
+            <div>
+                <img u="image" src="../static/img/calendar/june.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     JUIN
                 </div>
-            </div> 
+            </div>
             <div>
-                <img u="image" src="../static/img/calendar/srpanj.png" />
+                <img u="image" src="../static/img/calendar/july.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     JUILLET
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/calendar/kolovoz.png" />
+                <img u="image" src="../static/img/calendar/august.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
-                    AOÛZ 
+                    AOÛT
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/calendar/rujan.png" />
+                <img u="image" src="../static/img/calendar/september.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     SEPTEMBRE
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/calendar/october.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    OCTOBRE
                 </div>
             </div>
         </div>

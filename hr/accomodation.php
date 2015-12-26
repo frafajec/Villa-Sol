@@ -20,7 +20,7 @@
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1400px; height: 692px; overflow: hidden;">
             <div>
                 <img u="image" src="../static/img/gallery/1.jpg" />
-                <img u="thumb" src="../static/img/gallery/1p.jpg" />
+                <img u="thumb" src="../static/img/gallery/1p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Apartman izvana, terase s pogledom na more.
@@ -32,11 +32,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Apartman izvana, terase s pogledom na more.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/2.jpg" />
-                <img u="thumb" src="../static/img/gallery/2p.jpg" />
+                <img u="thumb" src="../static/img/gallery/2p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Ulična strana kuće s prostorm za parkiranje.
@@ -48,11 +48,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Ulična strana kuće s prostorm za parkiranje.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/3.jpg" />
-                <img u="thumb" src="../static/img/gallery/3p.jpg" />
+                <img u="thumb" src="../static/img/gallery/3p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Prizemlje. Dnevni boravak.
@@ -64,11 +64,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Prizemlje. Dnevni boravak.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/4.jpg" />
-                <img u="thumb" src="../static/img/gallery/4p.jpg" />
+                <img u="thumb" src="../static/img/gallery/4p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Prizemlje. Dnevni boravak.
@@ -80,11 +80,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Prizemlje. Dnevni boravak.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/5.jpg" />
-                <img u="thumb" src="../static/img/gallery/5p.jpg" />
+                <img u="thumb" src="../static/img/gallery/5p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Prizemlje. Blagovaonica.
@@ -96,11 +96,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Prizemlje. Blagovaonica.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/6.jpg" />
-                <img u="thumb" src="../static/img/gallery/6p.jpg" />
+                <img u="thumb" src="../static/img/gallery/6p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 620px; left: 200px; width: 1000px; height: 65px;">
                     Kuhinja. Hladnjak s ledenicom, ugradbena ploča te pećnica, mikrovalne pećnica, perilice posuđa i aparat za kavu.
@@ -112,11 +112,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 585px; left: 200px; width: 1000px; height: 105px;">
                     Kuhinja. Hladnjak s ledenicom, ugradbena ploča te pećnica, mikrovalne pećnica, perilice posuđa i aparat za kavu.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/7.jpg" />
-                <img u="thumb" src="../static/img/gallery/7p.jpg" />
+                <img u="thumb" src="../static/img/gallery/7p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Prizemlje. Dnevni boravak. Dvosjed na razvlačenje.
@@ -128,11 +128,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Prizemlje. Dnevni boravak. Dvosjed na razvlačenje.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/8.jpg" />
-                <img u="thumb" src="../static/img/gallery/8p.jpg" />
+                <img u="thumb" src="../static/img/gallery/8p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     TV ispred dvosjeda.
@@ -144,11 +144,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     TV ispred dvosjeda.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/9.jpg" />
-                <img u="thumb" src="../static/img/gallery/9p.jpg" />
+                <img u="thumb" src="../static/img/gallery/9p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Prizemlje. Kupaonica.
@@ -160,11 +160,27 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Prizemlje. Kupaonica.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/10.jpg" />
+                <img u="thumb" src="../static/img/gallery/10p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Prizemlje. Kupaonica.
                 </div>
-            </div>       
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Prizemlje. Kupaonica.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Prizemlje. Kupaonica.
+                </div>-->
+            </div>
             <div>
                 <img u="image" src="../static/img/gallery/11.jpg" />
-                <img u="thumb" src="../static/img/gallery/11p.jpg" />
+                <img u="thumb" src="../static/img/gallery/11p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Gornji kat, klimatizirana spavaća soba s bračnim krevetom i izlazom na terasu.
@@ -176,11 +192,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 100px; width: 1200px; height: 85px;">
                     Gornji kat, klimatizirana spavaća soba s bračnim krevetom i izlazom na terasu. 
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/12.jpg" />
-                <img u="thumb" src="../static/img/gallery/12p.jpg" />
+                <img u="thumb" src="../static/img/gallery/12p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Gornji kat, klimatizirana spavaća soba s 2 odvojena kreveta i izlazom na malu terasu.
@@ -192,11 +208,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 100px; width: 1200px; height: 85px;">
                     Gornji kat, klimatizirana spavaća soba s 2 odvojena kreveta i izlazom na malu terasu.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/13.jpg" />
-                <img u="thumb" src="../static/img/gallery/13p.jpg" />
+                <img u="thumb" src="../static/img/gallery/13p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Gornji kat, hodnik.
@@ -208,11 +224,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Gornji kat, hodnik.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/14.jpg" />
-                <img u="thumb" src="../static/img/gallery/14p.jpg" />
+                <img u="thumb" src="../static/img/gallery/14p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Gornji kat, kupaonica.
@@ -224,11 +240,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Gornji kat, kupaonica.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/15.jpg" />
-                <img u="thumb" src="../static/img/gallery/15p.jpg" />
+                <img u="thumb" src="../static/img/gallery/15p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Gornja terasa.
@@ -240,11 +256,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Gornja terasa.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/16.jpg" />
-                <img u="thumb" src="../static/img/gallery/16p.jpg" />
+                <img u="thumb" src="../static/img/gallery/16p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Donja terasa sa vanjskim namještajem.
@@ -256,8 +272,8 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Donja terasa sa vanjskim namještajem.
-                </div>
-            </div>
+                </div>-->
+            </div><!--
             <div>
                 <img u="image" src="../static/img/gallery/17.jpg" />
                 <img u="thumb" src="../static/img/gallery/17p.jpg" />
@@ -273,10 +289,10 @@
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Pogled s donje terase sa vanjskim namještajem.
                 </div>
-            </div>
+            </div>-->
             <div>
                 <img u="image" src="../static/img/gallery/18.jpg" />
-                <img u="thumb" src="../static/img/gallery/18p.jpg" />
+                <img u="thumb" src="../static/img/gallery/18p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Pogled s donje terase.
@@ -288,11 +304,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Pogled s donje terase.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/19.jpg" />
-                <img u="thumb" src="../static/img/gallery/19p.jpg" />
+                <img u="thumb" src="../static/img/gallery/19p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Donja terasa.
@@ -304,11 +320,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Donja terasa.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/20.jpg" />
-                <img u="thumb" src="../static/img/gallery/20p.jpg" />
+                <img u="thumb" src="../static/img/gallery/20p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Donja terasa.
@@ -320,11 +336,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Donja terasa.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/21.jpg" />
-                <img u="thumb" src="../static/img/gallery/21p.jpg" />
+                <img u="thumb" src="../static/img/gallery/21p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Natkriveno dvorište sa roštiljem.
@@ -336,11 +352,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Natkriveno dvorište sa roštiljem.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/22.jpg" />
-                <img u="thumb" src="../static/img/gallery/22p.jpg" />
+                <img u="thumb" src="../static/img/gallery/22p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Dvorište.
@@ -352,11 +368,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Dvorište.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/23.jpg" />
-                <img u="thumb" src="../static/img/gallery/23p.jpg" />
+                <img u="thumb" src="../static/img/gallery/23p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Roštilj.
@@ -368,11 +384,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Roštilj.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/24.jpg" />
-                <img u="thumb" src="../static/img/gallery/24p.jpg" />
+                <img u="thumb" src="../static/img/gallery/24p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Dvorište navečer.
@@ -384,11 +400,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Dvorište navečer.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/25.jpg" />
-                <img u="thumb" src="../static/img/gallery/25p.jpg" />
+                <img u="thumb" src="../static/img/gallery/25p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Uređena plaža za sunčanje i kupanje ispod kuće udaljena 70 metara.
@@ -400,11 +416,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Uređena plaža za sunčanje i kupanje ispod kuće udaljena 70 metara.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/26.jpg" />
-                <img u="thumb" src="../static/img/gallery/26p.jpg" />
+                <img u="thumb" src="../static/img/gallery/26p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Plaža Kanice.
@@ -416,11 +432,11 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Plaža Kanice.
-                </div>
+                </div>-->
             </div>
             <div>
                 <img u="image" src="../static/img/gallery/27.jpg" />
-                <img u="thumb" src="../static/img/gallery/27p.jpg" />
+                <img u="thumb" src="../static/img/gallery/27p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
                     Mjesto Kanica.
@@ -432,7 +448,103 @@
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
                 top: 605px; left: 200px; width: 1000px; height: 85px;">
                     Mjesto Kanica.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/28.jpg" />
+                <img u="thumb" src="../static/img/gallery/28p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Apartment from the outside terrace overlooking the sea.
                 </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/29.jpg" />
+                <img u="thumb" src="../static/img/gallery/29p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/30.jpg" />
+                <img u="thumb" src="../static/img/gallery/30p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/31.jpg" />
+                <img u="thumb" src="../static/img/gallery/31p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/32.jpg" />
+                <img u="thumb" src="../static/img/gallery/32p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>-->
+            </div>
+            <div>
+                <img u="image" src="../static/img/gallery/33.jpg" />
+                <img u="thumb" src="../static/img/gallery/33p.jpg" /><!--
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
+                top: 645px; left: 200px; width: 1000px; height: 45px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-sm visible-md" style="position: absolute;
+                top: 625px; left: 200px; width: 1000px; height: 65px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>
+                <div u="caption" t="caption-transition-name" class="jssor_text visible-xs" style="position: absolute;
+                top: 605px; left: 200px; width: 1000px; height: 85px;">
+                    Apartment from the outside terrace overlooking the sea.
+                </div>-->
             </div>
 <!--            <div>
                 <img u="image" src="../static/showoff/img/12.jpg" />

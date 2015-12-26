@@ -29,18 +29,20 @@
             <table class="rtable">
                 <thead>
                     <tr>
+                        <th>1. svibanj - <br>31. svibanj</th>
                         <th>1. lipanj - <br>30. lipanj</th>
-                        <th>1. srpanj - <br>31. srpanj</th>
-                        <th>1. kolovoz - <br>31. kolovoz</th>
+                        <th>1. srpanj - <br>31. kolovoz</th>
                         <th>1. rujan - <br>30. rujan</th>
+                        <th>1. listopad - <br>31. listopad</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>180€</td>
-                        <td>220€</td>
-                        <td>220€</td>
-                        <td>180€</td>
+                        <td>€159</td>
+                        <td>€179</td>
+                        <td>€219</td>
+                        <td>€179</td>
+                        <td>€159</td>
                     </tr>
                 </tbody>
             </table>
@@ -61,28 +63,42 @@
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 800px; height: 400px;
             overflow: hidden;">
             <div>
-                <img u="image" src="../static/img/calendar/lipanj.png" />
+                <img u="image" src="../static/img/calendar/may.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    SVIBANJ
+                </div>
+            </div> 
+            <div>
+                <img u="image" src="../static/img/calendar/june.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     LIPANJ
                 </div>
-            </div> 
+            </div>
             <div>
-                <img u="image" src="../static/img/calendar/srpanj.png" />
+                <img u="image" src="../static/img/calendar/july.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     SRPANJ
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/calendar/kolovoz.png" />
+                <img u="image" src="../static/img/calendar/august.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     KOLOVOZ
                 </div>
             </div>
             <div>
-                <img u="image" src="../static/img/calendar/rujan.png" />
+                <img u="image" src="../static/img/calendar/september.png" />
+                <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
+                top: 22px; left: 50px; width: 250px; height: 45px;">
+                    LISTOPAD
+                </div>
+            </div>
+            <div>
+                <img u="image" src="../static/img/calendar/october.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
                     RUJAN
