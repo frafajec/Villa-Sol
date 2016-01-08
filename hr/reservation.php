@@ -94,14 +94,14 @@
                 <img u="image" src="../static/img/calendar/september.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
-                    LISTOPAD
+                    RUJAN
                 </div>
             </div>
             <div>
                 <img u="image" src="../static/img/calendar/october.png" />
                 <div u="caption" t="caption-transition-name" class="calendar_text" style="position: absolute;
                 top: 22px; left: 50px; width: 250px; height: 45px;">
-                    RUJAN
+                    LISTOPAD
                 </div>
             </div>
         </div>
