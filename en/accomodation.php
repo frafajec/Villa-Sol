@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>ACCOMODATION</title>
+<title>Accommodation - Villa Sol</title>
 
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->
@@ -642,7 +642,7 @@
     </div>
     <!-- Jssor Slider End -->
     
-    <h4 class="accomodation_header">ACCOMODATION</h4>
+    <h4 class="accomodation_header">ACCOMMODATION</h4>
     <div class="col-lg-6 line"></div>
     
     <div class="col-lg-4 col-lg-push-4 center-block accomodation_text">

@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>REZERVACIJA</title>
+<title>Rezervacija - Villa Sol</title>
 
 <div class="col-lg-12 reservation_panorama">
 </div>

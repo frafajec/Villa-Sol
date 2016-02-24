@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>VILLA SOL</title> 
+<title>Home - Villa Sol</title> 
 
 <div class="main_img">
     

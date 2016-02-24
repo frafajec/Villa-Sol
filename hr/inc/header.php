@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Vila na Jadranskom moru.">
-    <meta name="keywords" content="Jadran, Jadransko more, odmor, iznajmljivanje, vila, sunce, opuštanje">
+    <meta name="keywords" content="Jadransko, Hrvatska, Dalmacija, Trogir, Rogoznica, Split, ljeto, odmor, praznici, iznajmljivanje, apartman, villa">
     <meta name="author" content="siginum.com">
     <meta lang="hr">
 

@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>LOKACIJA</title>
+<title>Lokacija - Villa Sol</title>
 
 <div class="col-lg-12 situation_panorama">
 </div>
@@ -31,12 +31,12 @@
     
     <p>
         Villa Sol je smještena u samom srcu Dalmacije u čijoj blizini se nalaze mnoga atraktivna turistička odredišta: <br>
-        <a href="http://www.tz-rogoznica.hr">Rogoznica</a> - 10km, 15 minuta vožnje <br>
+        <a href="http://loverogoznica.eu/hr/">Rogoznica</a> - 10km, 15 minuta vožnje <br>
         <a href="http://www.tz-primosten.hr">Primošten</a> - 18km, 25 minuta vožnje <br>
         <a href="http://tztrogir.hr">Trogir</a> - 25km, 30 minuta vožnje <br>
         <a href="http://www.visitsplit.com">Split</a> - 53km, 60 minuta vožnje <br>
         <a href="http://www.sibenik-tourism.hr/hr/grad-sibenik">Šibenik</a> - 44km, 55 minuta vožnje <br>
-        <a href="http://www.npkrka.hr">Nacionalni park Krka</a> - 55km, 65 minuta vožnje <br>
+        <a href="http://www.np-krka.hr/en/">Nacionalni park Krka</a> - 55km, 65 minuta vožnje <br>
         <a href="http://www.np-kornati.hr">Nacionalni park Kornati</a>- 18km, 25 minuta vožnje (Primošten) <br>
     </p>
     

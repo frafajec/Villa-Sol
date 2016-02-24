@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>SITUATION</title> 
+<title>Situation - Villa Sol</title> 
 
 <div class="col-lg-12 situation_panorama">
 </div>
@@ -31,13 +31,13 @@
     
     <p>
         Villa Sol est située dans le cœur de la Dalmatie, près de laquelle il ya beaucoup de destinations touristiques attrayantes:<br>
-        <a href="http://www.tz-rogoznica.hr">Rogoznica</a> - 10km, 15 minutes en voiture <br>
-        <a href="http://www.tz-primosten.hr">Primošten</a> - 18km, 25 minutes en voiture <br>
-        <a href="http://tztrogir.hr">Trogir</a> - 25km, 30 minutes en voiture <br>
-        <a href="http://www.visitsplit.com">Split</a> - 53km, 60 minutes en voiture <br>
-        <a href="http://www.sibenik-tourism.hr/hr/grad-sibenik">Šibenik</a> - 44km, 55 minutes en voiture <br>
+        <a href="http://loverogoznica.eu/">Rogoznica</a> - 10km, 15 minutes en voiture <br>
+        <a href="http://www.tz-primosten.hr/index.php?lang=en">Primošten</a> - 18km, 25 minutes en voiture <br>
+        <a href="http://tztrogir.hr/52496/naslovnica/">Trogir</a> - 25km, 30 minutes en voiture <br>
+        <a href="http://www.visitsplit.com/fr/1/bienvenue-a-split">Split</a> - 53km, 60 minutes en voiture <br>
+        <a href="http://www.sibenik-tourism.hr/en/city-of-sibenik">Šibenik</a> - 44km, 55 minutes en voiture <br>
         <a href="http://www.npkrka.hr">Parc national de Krka</a> - 55km, 65 minuta vožnje <br>
-        <a href="http://www.np-kornati.hr">Parc national de Kornati</a>- 18km, 25 minutes en voiture (Primošten) <br>
+        <a href="http://www.np-kornati.hr/en">Parc national de Kornati</a>- 18km, 25 minutes en voiture (Primošten) <br>
     </p>
     
 </div>

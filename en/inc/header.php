@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Adriatic sea apartment renting.">
-    <meta name="keywords" content="Adria, Adriatic, sea, vacation, renting, villa, sun, relax">
+    <meta name="keywords" content="Adriatic, Croatia, Dalmatia, Trogir, Rogoznica, Split, summer, vacation, holidays, renting, apartment, villa">
     <meta name="author" content="siginum.com">
     <meta lang="en">
 
@@ -45,7 +45,7 @@
                     
                   <ul class="nav navbar-nav">
                     <li><a href="index.php">HOME</a></li>
-                    <li><a href="accomodation.php">ACCOMODATION</a></li>
+                    <li><a href="accomodation.php">ACCOMMODATION</a></li>
                     <li><a href="situation.php">LOCATION</a></li>
                     <li><a href="reservation.php">RESERVATION</a></li>
                     <li><a href="contact.php">CONTACT</a></li>

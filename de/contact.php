@@ -1,5 +1,6 @@
 <?php require_once 'inc/header.php'; ?>
-<title>KONTAKT</title>
+<title>Kontakt - Villa Sol</title>
+
 <div class="col-lg-12 contact_panorama">
 </div>
 <div class="col-lg-6 cline"></div>

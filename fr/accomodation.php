@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>HÉBERGEMENT</title>    
+<title>Hébergement - Villa Sol </title>    
 
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->
