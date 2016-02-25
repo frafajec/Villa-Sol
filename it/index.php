@@ -27,7 +27,7 @@
             lascia un’impressione delle coste distanti. Questa regione magica può rilassarci e darci pace, e poi anche la voglia di tornare. 
         </p>
     </div> 
-    <img src="../static/img/page/glavna_romantika.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -46,7 +46,7 @@
 
         </p>
     </div>
-    <img src="../static/img/page/glavna_apartman.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Apartment_for_renting.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -64,7 +64,7 @@
             come Parco nazionale Krka o Parco nazionale delle isole Kornati. 
         </p>
     </div>
-    <img src="../static/img/page/glavna_okolica.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Adriatic_sea_vacation.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>   

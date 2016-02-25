@@ -28,7 +28,7 @@
            Frieden und Ruhe verleihen und schließlich auch den Wunsch,  zurückzukehren.
         </p>
     </div> 
-    <img src="../static/img/page/glavna_romantika.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -47,7 +47,7 @@
             Personen gedacht und ist nur 70 Meter vom Strand entfernt.
         </p>
     </div>
-    <img src="../static/img/page/glavna_apartman.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Apartment_for_renting.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -65,7 +65,7 @@
             zu besichtigen.
         </p>
     </div>
-    <img src="../static/img/page/glavna_okolica.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Adriatic_sea_vacation.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>   

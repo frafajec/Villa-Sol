@@ -20,7 +20,7 @@
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1400px; height: 692px; overflow: hidden;">
             <div>
-                <img u="image" src="../static/img/gallery/1.jpg" />
+                <img u="image" src="../static/img/gallery/01_Villa_Sol.jpg" />
                 <img u="thumb" src="../static/img/gallery/1p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -36,7 +36,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/2.jpg" />
+                <img u="image" src="../static/img/gallery/02_Apartment_Rogoznica.jpg" />
                 <img u="thumb" src="../static/img/gallery/2p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -52,7 +52,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/3.jpg" />
+                <img u="image" src="../static/img/gallery/03_Renting_Trogir.jpg" />
                 <img u="thumb" src="../static/img/gallery/3p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -84,7 +84,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/5.jpg" />
+                <img u="image" src="../static/img/gallery/05_Villa_Sol_Rogoznica.jpg" />
                 <img u="thumb" src="../static/img/gallery/5p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -260,7 +260,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/16.jpg" />
+                <img u="image" src="../static/img/gallery/16_Holidays_Dalmatia.jpg" />
                 <img u="thumb" src="../static/img/gallery/16p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -372,7 +372,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/23.jpg" />
+                <img u="image" src="../static/img/gallery/23_Summer_Croatia.jpg" />
                 <img u="thumb" src="../static/img/gallery/23p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -404,7 +404,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/25.jpg" />
+                <img u="image" src="../static/img/gallery/24_Adriatic_sea.jpg" />
                 <img u="thumb" src="../static/img/gallery/25p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -436,7 +436,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/27.jpg" />
+                <img u="image" src="../static/img/gallery/27_Vacation.jpg" />
                 <img u="thumb" src="../static/img/gallery/27p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -516,7 +516,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/32.jpg" />
+                <img u="image" src="../static/img/gallery/32_Kanica.jpg" />
                 <img u="thumb" src="../static/img/gallery/32p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -532,7 +532,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/33.jpg" />
+                <img u="image" src="../static/img/gallery/33_Kanica_Rogoznica.jpg" />
                 <img u="thumb" src="../static/img/gallery/33p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">

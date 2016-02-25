@@ -1,5 +1,5 @@
 <?php require_once 'inc/header.php'; ?>
-<title>Home - Villa Sol</title> 
+<title>Accueil - Villa Sol</title> 
 
 <div class="main_img">
     
@@ -30,7 +30,7 @@
             et le calme, et enfin le désir de revenir.
         </p>
     </div> 
-    <img src="../static/img/page/glavna_romantika.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -50,7 +50,7 @@
 
         </p>
     </div>
-    <img src="../static/img/page/glavna_apartman.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Apartment_for_renting.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -68,7 +68,7 @@
             heure en voiture, et il se présente même l'occasion de visiter le célèbre parc national de Krka et le parc national de Kornati.
         </p>
     </div>
-    <img src="../static/img/page/glavna_okolica.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Adriatic_sea_vacation.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>   

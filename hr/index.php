@@ -30,7 +30,7 @@
             pružiti opuštenost i mir, a naposlijetku i želju za povratkom.
         </p>
     </div> 
-    <img src="../static/img/page/glavna_romantika.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -51,7 +51,7 @@
 
         </p>
     </div>
-    <img src="../static/img/page/glavna_apartman.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Apartment_for_renting.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>
@@ -69,7 +69,7 @@
              a tu je i prilika da razgledate poznati nacionalni park rijeke Krke te nacionalni park Kornati.
         </p>
     </div>
-    <img src="../static/img/page/glavna_okolica.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Adriatic_sea_vacation.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>   
