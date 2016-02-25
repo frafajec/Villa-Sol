@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Adriatico mare appartamento locazione.">
     <meta name="keywords" content="Adriatico, Croazia, Dalmazia, Trogir, Rogoznica, Spalato, estate, vacanze, ferie, affittare, appartamento, villa">
-    <meta name="author" content="siginum.com">
+    <meta name="author" content="Filip Rafajec & Ivan Gradecak">
     <meta lang="it">
 
     <!-- Bootstrap core CSS -->

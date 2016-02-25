@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Adria-Wohnung Vermietung.">
     <meta name="keywords" content="Adria, Kroatien, Dalmatien, Trogir, Rogoznica, Split, Sommer, Urlaub, Ferien, Miete, Wohnung, Villa">
-    <meta name="author" content="siginum.com">
+    <meta name="author" content="Filip Rafajec & Ivan Gradecak">
     <meta lang="de">
 
     <!-- Bootstrap core CSS -->

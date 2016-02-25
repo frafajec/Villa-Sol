@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Villa sur la mer Adriatique.">
     <meta name="keywords" content="Adriatique, Croatie, Dalmatie, Trogir, Rogoznica, Split, été, vacances, fêtes, location, appartement, villa">
-    <meta name="author" content="siginum.com">
+    <meta name="author" content="Filip Rafajec & Ivan Gradecak">
     <meta lang="fr">
 
     <!-- Bootstrap core CSS -->

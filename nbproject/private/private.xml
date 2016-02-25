@@ -12,11 +12,11 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/xampp/htdocs/Villa%20Sol/de/index.php</file>
-            <file>file:/D:/xampp/htdocs/Villa%20Sol/it/index.php</file>
-            <file>file:/D:/xampp/htdocs/Villa%20Sol/fr/index.php</file>
-            <file>file:/D:/xampp/htdocs/Villa%20Sol/hr/index.php</file>
-            <file>file:/D:/xampp/htdocs/Villa%20Sol/en/index.php</file>
+            <file>file:/D:/xampp/htdocs/Villa%20Sol/de/inc/header.php</file>
+            <file>file:/D:/xampp/htdocs/Villa%20Sol/fr/inc/header.php</file>
+            <file>file:/D:/xampp/htdocs/Villa%20Sol/it/inc/header.php</file>
+            <file>file:/D:/xampp/htdocs/Villa%20Sol/hr/inc/header.php</file>
+            <file>file:/D:/xampp/htdocs/Villa%20Sol/en/inc/header.php</file>
         </group>
     </open-files>
 </project-private>

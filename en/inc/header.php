@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Adriatic sea apartment renting.">
     <meta name="keywords" content="Adriatic, Croatia, Dalmatia, Trogir, Rogoznica, Split, summer, vacation, holidays, renting, apartment, villa">
-    <meta name="author" content="siginum.com">
+    <meta name="author" content="Filip Rafajec & Ivan Gradecak">
     <meta lang="en">
 
     <!-- Bootstrap core CSS -->
