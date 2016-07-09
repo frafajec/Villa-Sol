@@ -2,14 +2,12 @@
 <!--<title>VILLA SOL</title> -->
 <title>Home - Villa Sol</title>
 
-<div class="main_img">
-    
+<div class="main_img">    
 
         <h4>DOBRODOŠLI U VILLU SOL</h4><br>
         <p>Mjesto za vaš idealan odmor.<br>
-          <br><br><br>
-          <!-- <a href="reservation.php"> Last minute ponuda za srpanj! 20% popusta</a> -->
-          <br> </p>
+          <a href="reservation.php"> Last minute ponuda za srpanj! 15% popusta</a>
+          <br><br><br><br> </p>
     
 </div>
     

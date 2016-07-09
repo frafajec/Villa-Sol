@@ -5,9 +5,8 @@
 
         <h4>WILLKOMMEN IN DER VILLA SOL</h4><br>
         <p>Ein Ort  für Ihren idealen Urlaub.<br>
-          <br><br><br>
-          <!-- <a href="reservation.php"> Letzten Minute Juli Angebot! 20% Rabatt</a> -->
-          <br> </p>
+          <a href="reservation.php"> Letzten Minute Juli Angebot! 15% Rabatt</a>
+          <br><br><br><br> </p>
     
 </div>
     
