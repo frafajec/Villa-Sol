@@ -6,7 +6,7 @@
 
         <h4>BENVENUTI A VILLA SOL</h4><br>
         <p>Il posto per le vacanze perfette.<br>
-          <a href="reservation.php"> Offerta last minute luglio! 15% di sconto</a>
+          <!-- <a href="reservation.php"> Offerta last minute luglio! 15% di sconto</a> -->
           <br><br><br><br> </p>
     
 </div>

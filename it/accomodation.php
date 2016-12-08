@@ -547,6 +547,10 @@
                     Apartment from the outside terrace overlooking the sea.
                 </div>-->
             </div>
+            <div>
+                <img u="image" src="../static/img/gallery/34_Kanica_Rogoznica.jpg" />
+                <img u="thumb" src="../static/img/gallery/34p.jpg" />
+            </div>						
 <!--            <div>
                 <img u="image" src="../static/showoff/img/12.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-12.jpg" />
