@@ -6,9 +6,9 @@
 
         <h4>WELCOME TO VILLA SOL</h4><br>
         <p>A place for your perfect holiday.<br>
-          <a href="reservation.php"> Last minute July offer! 15% discount</a>
-          <br><br><br><br> </p>
-    
+          <!-- <a href="reservation.php"> Last minute July offer! 15% discount</a> -->
+          <br><br> </p>
+        
 </div>
     
 <!-- tekst na main -->
@@ -27,7 +27,7 @@
             to far away beaches. This magical atmosphere can really provide relaxation and peace, and it invites you to come back.
         </p>
     </div> 
-    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset_Punta_Planka.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>

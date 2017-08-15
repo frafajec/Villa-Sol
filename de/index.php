@@ -5,8 +5,8 @@
 
         <h4>WILLKOMMEN IN DER VILLA SOL</h4><br>
         <p>Ein Ort  für Ihren idealen Urlaub.<br>
-          <a href="reservation.php"> Letzten Minute Juli Angebot! 15% Rabatt</a>
-          <br><br><br><br> </p>
+          <!-- <a href="reservation.php"> Letzten Minute Juli Angebot! 15% Rabatt</a> -->
+          <br><br> </p>
     
 </div>
     
@@ -27,7 +27,7 @@
            Frieden und Ruhe verleihen und schließlich auch den Wunsch,  zurückzukehren.
         </p>
     </div> 
-    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset_Punta_Planka.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>

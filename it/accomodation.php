@@ -388,7 +388,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/24_Adriatic_sea.jpg" />
+                <img u="image" src="../static/img/gallery/24_Adriatic_sea_View.jpg" />
                 <img u="thumb" src="../static/img/gallery/24p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -532,7 +532,7 @@
                 </div>-->
             </div>
             <div>
-                <img u="image" src="../static/img/gallery/33_Kanica_Rogoznica.jpg" />
+                <img u="image" src="../static/img/gallery/33_Kanica_Rogoznica_Rina.jpg" />
                 <img u="thumb" src="../static/img/gallery/33p.jpg" /><!--
                 <div u="caption" t="caption-transition-name" class="jssor_text visible-lg" style="position: absolute;
                 top: 645px; left: 200px; width: 1000px; height: 45px;">
@@ -547,6 +547,10 @@
                     Apartment from the outside terrace overlooking the sea.
                 </div>-->
             </div>
+            <div>
+                <img u="image" src="../static/img/gallery/34_Kanica_Rogoznica.jpg" />
+                <img u="thumb" src="../static/img/gallery/34p.jpg" />
+            </div>						
 <!--            <div>
                 <img u="image" src="../static/showoff/img/12.jpg" />
                 <img u="thumb" src="../static/showoff/img/thumb-12.jpg" />

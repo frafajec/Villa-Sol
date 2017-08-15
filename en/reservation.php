@@ -37,11 +37,11 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>€119</td>
-                        <td>€159</td>
-                        <td>€185</td>
-                        <td>€159</td>
-                        <td>€119</td>
+                        <td>€120</td>
+                        <td>€170</td>
+                        <td>€220</td>
+                        <td>€150</td>
+                        <td>€120</td>
                     </tr>
                 </tbody>
             </table>

@@ -6,8 +6,8 @@
 
         <h4>DOBRODOŠLI U VILLU SOL</h4><br>
         <p>Mjesto za vaš idealan odmor.<br>
-          <a href="reservation.php"> Last minute ponuda za srpanj! 15% popusta</a>
-          <br><br><br><br> </p>
+          <!-- <a href="reservation.php"> Last minute ponuda za srpanj! 15% popusta</a>  -->
+          <br><br> </p>
     
 </div>
     
@@ -28,7 +28,7 @@
             pružiti opuštenost i mir, a naposlijetku i želju za povratkom.
         </p>
     </div> 
-    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset_Punta_Planka.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>

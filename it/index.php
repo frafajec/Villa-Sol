@@ -6,8 +6,8 @@
 
         <h4>BENVENUTI A VILLA SOL</h4><br>
         <p>Il posto per le vacanze perfette.<br>
-          <a href="reservation.php"> Offerta last minute luglio! 15% di sconto</a>
-          <br><br><br><br> </p>
+          <!-- <a href="reservation.php"> Offerta last minute luglio! 15% di sconto</a> -->
+          <br><br> </p>
     
 </div>
     
@@ -26,7 +26,7 @@
             lascia un’impressione delle coste distanti. Questa regione magica può rilassarci e darci pace, e poi anche la voglia di tornare. 
         </p>
     </div> 
-    <img src="../static/img/page/Holidays_sunset.jpg" class="main_tumb img-rounded img-responsive">
+    <img src="../static/img/page/Holidays_sunset_Punta_Planka.jpg" class="main_tumb img-rounded img-responsive">
     <br><br>
     
 </div>

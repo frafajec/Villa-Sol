@@ -30,7 +30,7 @@
             
             <div class="end">
                 <div class="col-lg-2"><h4>Villa Sol</h4></div><!-- /col-lg-6 -->
-                <div class="col-lg-2" style="text-align: right;"><h4>2016</h4></div><!-- /col-lg-6 -->
+                <div class="col-lg-2" style="text-align: right;"><h4>2017</h4></div><!-- /col-lg-6 -->
             </div>
             <br/>
             <br/>
